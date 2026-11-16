@@ -1,0 +1,229 @@
+Input #0, rawvideo, from 'pipe:0':
+  Duration: N/A, start: 0.000000, bitrate: 746496 kb/s
+  Stream #0:0: Video: rawvideo (RGB[24] / 0x18424752), rgb24, 1920x1080, 746496 kb/s, 15 tbr, 15 tbn
+[aist#1:0/pcm_s16le @ 0x558643fe6240] Guessed Channel Layout: mono
+Input #1, wav, from '/mnt/data/langlands_lime_masari/audio/narration.wav':
+  Duration: 00:11:28.93, bitrate: 768 kb/s
+  Stream #1:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, mono, s16, 768 kb/s
+Input #2, ffmetadata, from '/mnt/data/langlands_lime_masari/data/chapters.ffmeta':
+  Metadata:
+    title           : ライムとマサリのゆったり解説｜ラングランズ・プログラム
+    comment         : 新規制作キャラクター：ライム、マサリ。音声は独自調整したeSpeak合成音声。
+  Duration: 00:11:28.93, start: 0.000000, bitrate: 0 kb/s
+  Chapters:
+    Chapter #2:0: start 0.000000, end 27.133000
+      Metadata:
+        title           : ラングランズ・プログラム
+    Chapter #2:1: start 27.133000, end 47.667000
+      Metadata:
+        title           : 一つの予想ではなく、関連する構想の集まり
+    Chapter #2:2: start 47.667000, end 69.867000
+      Metadata:
+        title           : 出発点は、この方程式
+    Chapter #2:3: start 69.867000, end 92.133000
+      Metadata:
+        title           : 5 で割った余りの世界
+    Chapter #2:4: start 92.133000, end 115.200000
+      Metadata:
+        title           : 点の個数から、素数ごとの係数へ
+    Chapter #2:5: start 115.200000, end 138.267000
+      Metadata:
+        title           : もう一方は「保型形式」
+    Chapter #2:6: start 138.267000, end 163.733000
+      Metadata:
+        title           : 関数を、係数の列として読む
+    Chapter #2:7: start 163.733000, end 191.267000
+      Metadata:
+        title           : 実際に対応する関数
+    Chapter #2:8: start 191.267000, end 214.667000
+      Metadata:
+        title           : 一致するのは、素数ごとのデータ
+    Chapter #2:9: start 214.667000, end 239.267000
+      Metadata:
+        title           : モジュラー性定理
+    Chapter #2:10: start 239.267000, end 260.733000
+      Metadata:
+        title           : ガロア群は、計算関係を保つ対称性
+    Chapter #2:11: start 260.733000, end 286.067000
+      Metadata:
+        title           : 対称性を行列として表す
+    Chapter #2:12: start 286.067000, end 312.067000
+      Metadata:
+        title           : 楕円曲線から、2 次元の表現が生まれる
+    Chapter #2:13: start 312.067000, end 339.600000
+      Metadata:
+        title           : 点数の差は、行列のトレースだった
+    Chapter #2:14: start 339.600000, end 365.133000
+      Metadata:
+        title           : 同じ二次式を、比較の単位にする
+    Chapter #2:15: start 365.133000, end 391.133000
+      Metadata:
+        title           : 素数ごとの情報を、L 因子にする
+    Chapter #2:16: start 391.133000, end 417.600000
+      Metadata:
+        title           : 素数ごとの因子を掛け合わせる
+    Chapter #2:17: start 417.600000, end 442.933000
+      Metadata:
+        title           : 相互法則は、情報を保つ対応を求める
+    Chapter #2:18: start 442.933000, end 469.467000
+      Metadata:
+        title           : 相互法則の見取り図
+    Chapter #2:19: start 469.467000, end 491.800000
+      Metadata:
+        title           : 保型「形式」から、保型「表現」へ
+    Chapter #2:20: start 491.800000, end 517.200000
+      Metadata:
+        title           : 局所と大域は、同じ言葉ではない
+    Chapter #2:21: start 517.200000, end 541.133000
+      Metadata:
+        title           : 1 次元の場合の基盤は、類体論
+    Chapter #2:22: start 541.133000, end 566.000000
+      Metadata:
+        title           : もう一つの柱：関手性
+    Chapter #2:23: start 566.000000, end 594.000000
+      Metadata:
+        title           : 例：2 次元の対称二乗は 3 次元
+    Chapter #2:24: start 594.000000, end 620.200000
+      Metadata:
+        title           : 定理になっている領域の例
+    Chapter #2:25: start 620.200000, end 645.467000
+      Metadata:
+        title           : 幾何学的ラングランズとの区別
+    Chapter #2:26: start 645.467000, end 674.333000
+      Metadata:
+        title           : 覚えるのは、三つの問い
+    Chapter #2:27: start 674.333000, end 688.933000
+      Metadata:
+        title           : 出典・制作情報
+Input #3, srt, from '/mnt/data/langlands_lime_masari/subtitles.srt':
+  Duration: N/A, bitrate: N/A
+  Stream #3:0: Subtitle: subrip (srt)
+Stream mapping:
+  Stream #0:0 -> #0:0 (rawvideo (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_s16le (native) -> aac (native))
+  Stream #3:0 -> #0:2 (subrip (srt) -> mov_text (native))
+[libx264 @ 0x558643f926c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2 AVX512
+[libx264 @ 0x558643f926c0] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 0x558643f926c0] 264 - core 164 r3108 31e19f9 - H.264/MPEG-4 AVC codec - Copyleft 2003-2023 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:1:1 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=0.40:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=4 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=5 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:0.60
+Output #0, mp4, to '/mnt/data/langlands_lime_masari_voiced.mp4':
+  Metadata:
+    title           : ライムとマサリのゆったり解説｜ラングランズ・プログラム
+    comment         : 新規制作キャラクター：ライム、マサリ。音声は独自調整したeSpeak合成音声。
+    encoder         : Lavf61.7.103
+  Chapters:
+    Chapter #0:0: start 0.000000, end 27.133000
+      Metadata:
+        title           : ラングランズ・プログラム
+    Chapter #0:1: start 27.133000, end 47.667000
+      Metadata:
+        title           : 一つの予想ではなく、関連する構想の集まり
+    Chapter #0:2: start 47.667000, end 69.867000
+      Metadata:
+        title           : 出発点は、この方程式
+    Chapter #0:3: start 69.867000, end 92.133000
+      Metadata:
+        title           : 5 で割った余りの世界
+    Chapter #0:4: start 92.133000, end 115.200000
+      Metadata:
+        title           : 点の個数から、素数ごとの係数へ
+    Chapter #0:5: start 115.200000, end 138.267000
+      Metadata:
+        title           : もう一方は「保型形式」
+    Chapter #0:6: start 138.267000, end 163.733000
+      Metadata:
+        title           : 関数を、係数の列として読む
+    Chapter #0:7: start 163.733000, end 191.267000
+      Metadata:
+        title           : 実際に対応する関数
+    Chapter #0:8: start 191.267000, end 214.667000
+      Metadata:
+        title           : 一致するのは、素数ごとのデータ
+    Chapter #0:9: start 214.667000, end 239.267000
+      Metadata:
+        title           : モジュラー性定理
+    Chapter #0:10: start 239.267000, end 260.733000
+      Metadata:
+        title           : ガロア群は、計算関係を保つ対称性
+    Chapter #0:11: start 260.733000, end 286.067000
+      Metadata:
+        title           : 対称性を行列として表す
+    Chapter #0:12: start 286.067000, end 312.067000
+      Metadata:
+        title           : 楕円曲線から、2 次元の表現が生まれる
+    Chapter #0:13: start 312.067000, end 339.600000
+      Metadata:
+        title           : 点数の差は、行列のトレースだった
+    Chapter #0:14: start 339.600000, end 365.133000
+      Metadata:
+        title           : 同じ二次式を、比較の単位にする
+    Chapter #0:15: start 365.133000, end 391.133000
+      Metadata:
+        title           : 素数ごとの情報を、L 因子にする
+    Chapter #0:16: start 391.133000, end 417.600000
+      Metadata:
+        title           : 素数ごとの因子を掛け合わせる
+    Chapter #0:17: start 417.600000, end 442.933000
+      Metadata:
+        title           : 相互法則は、情報を保つ対応を求める
+    Chapter #0:18: start 442.933000, end 469.467000
+      Metadata:
+        title           : 相互法則の見取り図
+    Chapter #0:19: start 469.467000, end 491.800000
+      Metadata:
+        title           : 保型「形式」から、保型「表現」へ
+    Chapter #0:20: start 491.800000, end 517.200000
+      Metadata:
+        title           : 局所と大域は、同じ言葉ではない
+    Chapter #0:21: start 517.200000, end 541.133000
+      Metadata:
+        title           : 1 次元の場合の基盤は、類体論
+    Chapter #0:22: start 541.133000, end 566.000000
+      Metadata:
+        title           : もう一つの柱：関手性
+    Chapter #0:23: start 566.000000, end 594.000000
+      Metadata:
+        title           : 例：2 次元の対称二乗は 3 次元
+    Chapter #0:24: start 594.000000, end 620.200000
+      Metadata:
+        title           : 定理になっている領域の例
+    Chapter #0:25: start 620.200000, end 645.467000
+      Metadata:
+        title           : 幾何学的ラングランズとの区別
+    Chapter #0:26: start 645.467000, end 674.333000
+      Metadata:
+        title           : 覚えるのは、三つの問い
+    Chapter #0:27: start 674.333000, end 688.933000
+      Metadata:
+        title           : 出典・制作情報
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1920x1080, q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.101 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.101 aac
+  Stream #0:2(jpn): Subtitle: mov_text (tx3g / 0x67337874)
+      Metadata:
+        encoder         : Lavc61.19.101 mov_text
+frame=   34 fps=0.0 q=29.0 size=       2KiB time=00:00:01.06 bitrate=  11.5kbits/s dup=30 drop=0 speed=2.13x    frame=  104 fps=102 q=29.0 size=       2KiB time=00:00:03.40 bitrate=   3.6kbits/s dup=67 drop=0 speed=3.32x    frame=  193 fps=127 q=29.0 size=       2KiB time=00:00:06.36 bitrate=   1.9kbits/s dup=111 drop=0 speed=4.18x    frame=  301 fps=149 q=29.0 size=     258KiB time=00:00:09.96 bitrate= 211.6kbits/s dup=165 drop=0 speed=4.92x    frame=  398 fps=158 q=29.0 size=     258KiB time=00:00:13.20 bitrate= 159.8kbits/s dup=213 drop=0 speed=5.22x    frame=  496 fps=164 q=29.0 size=     258KiB time=00:00:16.46 bitrate= 128.1kbits/s dup=262 drop=0 speed=5.43x    frame=  598 fps=169 q=29.0 size=     514KiB time=00:00:19.86 bitrate= 211.7kbits/s dup=310 drop=0 speed=5.63x    frame=  690 fps=171 q=29.0 size=     514KiB time=00:00:22.93 bitrate= 183.4kbits/s dup=359 drop=0 speed=5.69x    frame=  790 fps=174 q=29.0 size=     770KiB time=00:00:26.26 bitrate= 240.0kbits/s dup=407 drop=0 speed= 5.8x    frame=  872 fps=173 q=29.0 size=     770KiB time=00:00:29.00 bitrate= 217.4kbits/s dup=446 drop=0 speed=5.76x    frame=  973 fps=176 q=29.0 size=    1026KiB time=00:00:32.40 bitrate= 259.3kbits/s dup=500 drop=0 speed=5.86x    frame= 1080 fps=179 q=29.0 size=    1026KiB time=00:00:35.93 bitrate= 233.8kbits/s dup=554 drop=0 speed=5.96x    frame= 1182 fps=181 q=29.0 size=    1282KiB time=00:00:39.33 bitrate= 266.9kbits/s dup=601 drop=0 speed=6.02x    frame= 1252 fps=178 q=29.0 size=    1282KiB time=00:00:41.66 bitrate= 252.0kbits/s dup=636 drop=0 speed=5.92x    frame= 1361 fps=181 q=29.0 size=    1538KiB time=00:00:45.30 bitrate= 278.0kbits/s dup=695 drop=0 speed=6.01x    frame= 1456 fps=181 q=29.0 size=    1538KiB time=00:00:48.46 bitrate= 259.9kbits/s dup=741 drop=0 speed=6.03x    frame= 1569 fps=184 q=29.0 size=    1794KiB time=00:00:52.23 bitrate= 281.3kbits/s dup=799 drop=0 speed=6.12x    frame= 1677 fps=186 q=29.0 size=    1794KiB time=00:00:55.83 bitrate= 263.1kbits/s dup=854 drop=0 speed=6.18x    frame= 1779 fps=186 q=29.0 size=    2050KiB time=00:00:59.23 bitrate= 283.4kbits/s dup=903 drop=0 speed=6.21x    frame= 1884 fps=188 q=29.0 size=    2050KiB time=00:01:02.73 bitrate= 267.6kbits/s dup=956 drop=0 speed=6.25x    [vf#0:0 @ 0x558644028880] More than 1000 frames duplicated
+frame= 1992 fps=189 q=29.0 size=    2050KiB time=00:01:06.33 bitrate= 253.1kbits/s dup=1011 drop=0 speed=6.29x    frame= 2096 fps=190 q=29.0 size=    2306KiB time=00:01:09.80 bitrate= 270.6kbits/s dup=1061 drop=0 speed=6.32x    frame= 2206 fps=191 q=29.0 size=    2306KiB time=00:01:13.46 bitrate= 257.1kbits/s dup=1118 drop=0 speed=6.37x    frame= 2307 fps=192 q=29.0 size=    2562KiB time=00:01:16.83 bitrate= 273.1kbits/s dup=1168 drop=0 speed=6.38x    frame= 2407 fps=192 q=29.0 size=    2562KiB time=00:01:20.16 bitrate= 261.8kbits/s dup=1217 drop=0 speed=6.39x    frame= 2508 fps=192 q=29.0 size=    2818KiB time=00:01:23.53 bitrate= 276.3kbits/s dup=1269 drop=0 speed=6.41x    frame= 2617 fps=193 q=29.0 size=    2818KiB time=00:01:27.20 bitrate= 264.7kbits/s dup=1323 drop=0 speed=6.44x    frame= 2732 fps=195 q=29.0 size=    2818KiB time=00:01:31.03 bitrate= 253.5kbits/s dup=1380 drop=0 speed=6.48x    frame= 2836 fps=195 q=29.0 size=    3074KiB time=00:01:34.46 bitrate= 266.5kbits/s dup=1433 drop=0 speed= 6.5x    frame= 2943 fps=196 q=29.0 size=    3074KiB time=00:01:38.06 bitrate= 256.7kbits/s dup=1482 drop=0 speed=6.52x    frame= 3040 fps=196 q=29.0 size=    3330KiB time=00:01:41.26 bitrate= 269.3kbits/s dup=1535 drop=0 speed=6.52x    frame= 3133 fps=195 q=29.0 size=    3330KiB time=00:01:44.36 bitrate= 261.3kbits/s dup=1580 drop=0 speed=6.51x    frame= 3228 fps=195 q=29.0 size=    3330KiB time=00:01:47.53 bitrate= 253.6kbits/s dup=1624 drop=0 speed= 6.5x    frame= 3311 fps=194 q=29.0 size=    3586KiB time=00:01:50.30 bitrate= 266.3kbits/s dup=1670 drop=0 speed=6.47x    frame= 3411 fps=194 q=29.0 size=    3586KiB time=00:01:53.63 bitrate= 258.5kbits/s dup=1720 drop=0 speed=6.48x    frame= 3502 fps=194 q=29.0 size=    3842KiB time=00:01:56.66 bitrate= 269.7kbits/s dup=1765 drop=0 speed=6.47x    frame= 3606 fps=194 q=29.0 size=    3842KiB time=00:02:00.23 bitrate= 261.7kbits/s dup=1818 drop=0 speed=6.48x    frame= 3679 fps=193 q=29.0 size=    4098KiB time=00:02:02.56 bitrate= 273.9kbits/s dup=1850 drop=0 speed=6.44x    frame= 3784 fps=194 q=29.0 size=    4098KiB time=00:02:06.06 bitrate= 266.3kbits/s dup=1906 drop=0 speed=6.45x    frame= 3881 fps=194 q=29.0 size=    4098KiB time=00:02:09.30 bitrate= 259.6kbits/s dup=1955 drop=0 speed=6.45x    frame= 3981 fps=194 q=29.0 size=    4098KiB time=00:02:12.63 bitrate= 253.1kbits/s dup=2006 drop=0 speed=6.46x    frame= 4079 fps=194 q=29.0 size=    4098KiB time=00:02:15.90 bitrate= 247.0kbits/s dup=2053 drop=0 speed=6.46x    frame= 4152 fps=193 q=29.0 size=    4610KiB time=00:02:18.33 bitrate= 273.0kbits/s dup=2087 drop=0 speed=6.42x    frame= 4247 fps=193 q=29.0 size=    4610KiB time=00:02:21.50 bitrate= 266.9kbits/s dup=2136 drop=0 speed=6.42x    frame= 4348 fps=193 q=29.0 size=    4866KiB time=00:02:24.86 bitrate= 275.1kbits/s dup=2189 drop=0 speed=6.42x    frame= 4446 fps=193 q=29.0 size=    4866KiB time=00:02:28.13 bitrate= 269.1kbits/s dup=2233 drop=0 speed=6.43x    frame= 4552 fps=193 q=29.0 size=    5122KiB time=00:02:31.66 bitrate= 276.6kbits/s dup=2290 drop=0 speed=6.44x    frame= 4656 fps=194 q=29.0 size=    5122KiB time=00:02:35.13 bitrate= 270.4kbits/s dup=2342 drop=0 speed=6.45x    frame= 4759 fps=194 q=29.0 size=    5378KiB time=00:02:38.60 bitrate= 277.8kbits/s dup=2390 drop=0 speed=6.46x    frame= 4853 fps=194 q=29.0 size=    5378KiB time=00:02:41.70 bitrate= 272.4kbits/s dup=2441 drop=0 speed=6.45x    frame= 4954 fps=194 q=29.0 size=    5378KiB time=00:02:45.06 bitrate= 266.9kbits/s dup=2491 drop=0 speed=6.46x    frame= 5052 fps=194 q=29.0 size=    5634KiB time=00:02:48.40 bitrate= 274.0kbits/s dup=2541 drop=0 speed=6.46x    frame= 5166 fps=194 q=29.0 size=    5634KiB time=00:02:52.16 bitrate= 268.1kbits/s dup=2598 drop=0 speed=6.48x    frame= 5268 fps=195 q=29.0 size=    5890KiB time=00:02:55.53 bitrate= 274.9kbits/s dup=2648 drop=0 speed=6.49x    frame= 5373 fps=195 q=29.0 size=    5890KiB time=00:02:59.03 bitrate= 269.5kbits/s dup=2702 drop=0 speed= 6.5x    frame= 5474 fps=195 q=29.0 size=    5890KiB time=00:03:02.40 bitrate= 264.5kbits/s dup=2751 drop=0 speed= 6.5x    frame= 5580 fps=195 q=29.0 size=    6146KiB time=00:03:05.93 bitrate= 270.8kbits/s dup=2805 drop=0 speed=6.51x    frame= 5660 fps=195 q=29.0 size=    6146KiB time=00:03:08.60 bitrate= 266.9kbits/s dup=2840 drop=0 speed=6.49x    frame= 5743 fps=194 q=29.0 size=    6402KiB time=00:03:11.36 bitrate= 274.0kbits/s dup=2883 drop=0 speed=6.47x    frame= 5849 fps=195 q=29.0 size=    6402KiB time=00:03:14.90 bitrate= 269.1kbits/s dup=2939 drop=0 speed=6.48x    frame= 5958 fps=195 q=29.0 size=    6658KiB time=00:03:18.53 bitrate= 274.7kbits/s dup=2990 drop=0 speed= 6.5x    frame= 6052 fps=195 q=29.0 size=    6658KiB time=00:03:21.66 bitrate= 270.4kbits/s dup=3039 drop=0 speed=6.49x    frame= 6152 fps=195 q=29.0 size=    6914KiB time=00:03:25.00 bitrate= 276.3kbits/s dup=3089 drop=0 speed=6.49x    frame= 6254 fps=195 q=29.0 size=    6914KiB time=00:03:28.40 bitrate= 271.8kbits/s dup=3142 drop=0 speed= 6.5x    frame= 6360 fps=195 q=29.0 size=    6914KiB time=00:03:31.93 bitrate= 267.2kbits/s dup=3190 drop=0 speed=6.51x    frame= 6446 fps=195 q=29.0 size=    7170KiB time=00:03:34.80 bitrate= 273.4kbits/s dup=3238 drop=0 speed= 6.5x    frame= 6556 fps=195 q=29.0 size=    7426KiB time=00:03:38.46 bitrate= 278.4kbits/s dup=3292 drop=0 speed=6.51x    frame= 6642 fps=195 q=29.0 size=    7426KiB time=00:03:41.33 bitrate= 274.8kbits/s dup=3331 drop=0 speed= 6.5x    frame= 6736 fps=195 q=29.0 size=    7426KiB time=00:03:44.46 bitrate= 271.0kbits/s dup=3378 drop=0 speed=6.49x    frame= 6816 fps=194 q=29.0 size=    7682KiB time=00:03:47.13 bitrate= 277.0kbits/s dup=3418 drop=0 speed=6.48x    frame= 6889 fps=194 q=29.0 size=    7682KiB time=00:03:49.56 bitrate= 274.1kbits/s dup=3456 drop=0 speed=6.45x    frame= 6999 fps=194 q=29.0 size=    7682KiB time=00:03:53.23 bitrate= 269.8kbits/s dup=3512 drop=0 speed=6.47x    frame= 7096 fps=194 q=29.0 size=    7938KiB time=00:03:56.46 bitrate= 275.0kbits/s dup=3563 drop=0 speed=6.47x    frame= 7202 fps=194 q=29.0 size=    7938KiB time=00:04:00.00 bitrate= 270.9kbits/s dup=3613 drop=0 speed=6.47x    frame= 7300 fps=194 q=29.0 size=    8194KiB time=00:04:03.26 bitrate= 275.9kbits/s dup=3664 drop=0 speed=6.47x    frame= 7404 fps=194 q=29.0 size=    8194KiB time=00:04:06.76 bitrate= 272.0kbits/s dup=3716 drop=0 speed=6.48x    frame= 7508 fps=195 q=29.0 size=    8450KiB time=00:04:10.20 bitrate= 276.7kbits/s dup=3768 drop=0 speed=6.49x    frame= 7606 fps=195 q=29.0 size=    8450KiB time=00:04:13.46 bitrate= 273.1kbits/s dup=3813 drop=0 speed=6.49x    frame= 7701 fps=195 q=29.0 size=    8450KiB time=00:04:16.63 bitrate= 269.7kbits/s dup=3862 drop=0 speed=6.48x    frame= 7793 fps=194 q=29.0 size=    8706KiB time=00:04:19.70 bitrate= 274.6kbits/s dup=3912 drop=0 speed=6.48x    frame= 7904 fps=195 q=29.0 size=    8706KiB time=00:04:23.40 bitrate= 270.7kbits/s dup=3967 drop=0 speed=6.49x    frame= 8010 fps=195 q=29.0 size=    8962KiB time=00:04:26.93 bitrate= 275.0kbits/s dup=4019 drop=0 speed= 6.5x    frame= 8112 fps=195 q=29.0 size=    8962KiB time=00:04:30.33 bitrate= 271.6kbits/s dup=4070 drop=0 speed= 6.5x    frame= 8211 fps=195 q=29.0 size=    9218KiB time=00:04:33.63 bitrate= 276.0kbits/s dup=4120 drop=0 speed= 6.5x    frame= 8316 fps=195 q=29.0 size=    9218KiB time=00:04:37.16 bitrate= 272.4kbits/s dup=4169 drop=0 speed=6.51x    frame= 8426 fps=196 q=29.0 size=    9218KiB time=00:04:40.80 bitrate= 268.9kbits/s dup=4228 drop=0 speed=6.52x    frame= 8531 fps=196 q=29.0 size=    9218KiB time=00:04:44.30 bitrate= 265.6kbits/s dup=4280 drop=0 speed=6.52x    frame= 8633 fps=196 q=29.0 size=    9730KiB time=00:04:47.70 bitrate= 277.0kbits/s dup=4329 drop=0 speed=6.53x    frame= 8736 fps=196 q=29.0 size=    9730KiB time=00:04:51.13 bitrate= 273.8kbits/s dup=4383 drop=0 speed=6.53x    frame= 8837 fps=196 q=29.0 size=    9986KiB time=00:04:54.50 bitrate= 277.8kbits/s dup=4433 drop=0 speed=6.53x    frame= 8940 fps=196 q=29.0 size=    9986KiB time=00:04:57.93 bitrate= 274.6kbits/s dup=4485 drop=0 speed=6.54x    frame= 9040 fps=196 q=29.0 size=   10242KiB time=00:05:01.26 bitrate= 278.5kbits/s dup=4534 drop=0 speed=6.54x    frame= 9141 fps=196 q=29.0 size=   10242KiB time=00:05:04.63 bitrate= 275.4kbits/s dup=4585 drop=0 speed=6.54x    frame= 9254 fps=197 q=29.0 size=   10498KiB time=00:05:08.40 bitrate= 278.8kbits/s dup=4642 drop=0 speed=6.55x    frame= 9344 fps=196 q=29.0 size=   10498KiB time=00:05:11.46 bitrate= 276.1kbits/s dup=4683 drop=0 speed=6.55x    frame= 9449 fps=197 q=29.0 size=   10498KiB time=00:05:14.90 bitrate= 273.1kbits/s dup=4735 drop=0 speed=6.55x    frame= 9562 fps=197 q=29.0 size=   10754KiB time=00:05:18.66 bitrate= 276.4kbits/s dup=4794 drop=0 speed=6.56x    frame= 9666 fps=197 q=29.0 size=   10754KiB time=00:05:22.13 bitrate= 273.5kbits/s dup=4847 drop=0 speed=6.56x    frame= 9760 fps=197 q=29.0 size=   11010KiB time=00:05:25.26 bitrate= 277.3kbits/s dup=4891 drop=0 speed=6.56x    frame= 9868 fps=197 q=29.0 size=   11010KiB time=00:05:28.86 bitrate= 274.2kbits/s dup=4949 drop=0 speed=6.57x    frame= 9973 fps=197 q=29.0 size=   11266KiB time=00:05:32.40 bitrate= 277.6kbits/s dup=5001 drop=0 speed=6.57x    frame=10076 fps=197 q=29.0 size=   11266KiB time=00:05:35.80 bitrate= 274.8kbits/s dup=5053 drop=0 speed=6.57x    frame=10174 fps=197 q=29.0 size=   11522KiB time=00:05:39.06 bitrate= 278.4kbits/s dup=5099 drop=0 speed=6.57x    frame=10266 fps=197 q=29.0 size=   11522KiB time=00:05:42.13 bitrate= 275.9kbits/s dup=5143 drop=0 speed=6.57x    frame=10364 fps=197 q=29.0 size=   11778KiB time=00:05:45.46 bitrate= 279.3kbits/s dup=5196 drop=0 speed=6.57x    frame=10460 fps=197 q=29.0 size=   11778KiB time=00:05:48.60 bitrate= 276.8kbits/s dup=5240 drop=0 speed=6.57x    frame=10561 fps=197 q=29.0 size=   12034KiB time=00:05:51.96 bitrate= 280.1kbits/s dup=5295 drop=0 speed=6.57x    frame=10671 fps=197 q=29.0 size=   12034KiB time=00:05:55.63 bitrate= 277.2kbits/s dup=5349 drop=0 speed=6.57x    frame=10780 fps=197 q=29.0 size=   12290KiB time=00:05:59.26 bitrate= 280.2kbits/s dup=5402 drop=0 speed=6.58x    frame=10886 fps=198 q=29.0 size=   12290KiB time=00:06:02.80 bitrate= 277.5kbits/s dup=5457 drop=0 speed=6.58x    frame=10990 fps=198 q=29.0 size=   12290KiB time=00:06:06.30 bitrate= 274.8kbits/s dup=5509 drop=0 speed=6.59x    frame=11100 fps=198 q=29.0 size=   12546KiB time=00:06:09.93 bitrate= 277.8kbits/s dup=5560 drop=0 speed=6.59x    frame=11194 fps=198 q=29.0 size=   12546KiB time=00:06:13.06 bitrate= 275.5kbits/s dup=5612 drop=0 speed=6.59x    frame=11294 fps=198 q=29.0 size=   12802KiB time=00:06:16.40 bitrate= 278.6kbits/s dup=5661 drop=0 speed=6.59x    frame=11396 fps=198 q=29.0 size=   12802KiB time=00:06:19.80 bitrate= 276.1kbits/s dup=5713 drop=0 speed=6.59x    frame=11497 fps=198 q=29.0 size=   12802KiB time=00:06:23.16 bitrate= 273.7kbits/s dup=5764 drop=0 speed=6.59x    frame=11603 fps=198 q=29.0 size=   13058KiB time=00:06:26.70 bitrate= 276.6kbits/s dup=5816 drop=0 speed= 6.6x    frame=11716 fps=198 q=29.0 size=   13058KiB time=00:06:30.46 bitrate= 273.9kbits/s dup=5871 drop=0 speed=6.61x    frame=11819 fps=198 q=29.0 size=   13314KiB time=00:06:33.93 bitrate= 276.9kbits/s dup=5920 drop=0 speed=6.61x    frame=11916 fps=198 q=29.0 size=   13570KiB time=00:06:37.13 bitrate= 279.9kbits/s dup=5973 drop=0 speed=6.61x    frame=12026 fps=198 q=29.0 size=   13570KiB time=00:06:40.80 bitrate= 277.3kbits/s dup=6023 drop=0 speed=6.61x    frame=12134 fps=199 q=29.0 size=   13826KiB time=00:06:44.40 bitrate= 280.1kbits/s dup=6079 drop=0 speed=6.62x    frame=12216 fps=198 q=29.0 size=   13826KiB time=00:06:47.13 bitrate= 278.2kbits/s dup=6118 drop=0 speed=6.61x    frame=12306 fps=198 q=29.0 size=   13826KiB time=00:06:50.13 bitrate= 276.2kbits/s dup=6168 drop=0 speed= 6.6x    frame=12416 fps=198 q=29.0 size=   14082KiB time=00:06:53.80 bitrate= 278.8kbits/s dup=6222 drop=0 speed=6.61x    frame=12517 fps=198 q=29.0 size=   14082KiB time=00:06:57.20 bitrate= 276.5kbits/s dup=6273 drop=0 speed=6.61x    frame=12618 fps=198 q=29.0 size=   14338KiB time=00:07:00.53 bitrate= 279.3kbits/s dup=6320 drop=0 speed=6.61x    frame=12710 fps=198 q=29.0 size=   14338KiB time=00:07:03.60 bitrate= 277.3kbits/s dup=6370 drop=0 speed=6.61x    frame=12811 fps=198 q=29.0 size=   14594KiB time=00:07:06.96 bitrate= 280.0kbits/s dup=6420 drop=0 speed=6.61x    frame=12924 fps=199 q=29.0 size=   14594KiB time=00:07:10.73 bitrate= 277.5kbits/s dup=6472 drop=0 speed=6.62x    frame=13020 fps=198 q=29.0 size=   14850KiB time=00:07:13.93 bitrate= 280.3kbits/s dup=6524 drop=0 speed=6.61x    frame=13116 fps=198 q=29.0 size=   14850KiB time=00:07:17.13 bitrate= 278.3kbits/s dup=6573 drop=0 speed=6.61x    frame=13214 fps=198 q=29.0 size=   14850KiB time=00:07:20.40 bitrate= 276.2kbits/s dup=6621 drop=0 speed=6.61x    frame=13306 fps=198 q=29.0 size=   15106KiB time=00:07:23.46 bitrate= 279.0kbits/s dup=6666 drop=0 speed=6.61x    frame=13416 fps=198 q=29.0 size=   15106KiB time=00:07:27.13 bitrate= 276.8kbits/s dup=6723 drop=0 speed=6.61x    frame=13511 fps=198 q=29.0 size=   15106KiB time=00:07:30.30 bitrate= 274.8kbits/s dup=6770 drop=0 speed=6.61x    frame=13621 fps=199 q=29.0 size=   15362KiB time=00:07:33.96 bitrate= 277.2kbits/s dup=6824 drop=0 speed=6.62x    frame=13747 fps=199 q=29.0 size=   15618KiB time=00:07:38.16 bitrate= 279.2kbits/s dup=6888 drop=0 speed=6.63x    frame=13848 fps=199 q=29.0 size=   15618KiB time=00:07:41.53 bitrate= 277.2kbits/s dup=6939 drop=0 speed=6.63x    frame=13949 fps=199 q=29.0 size=   15874KiB time=00:07:44.90 bitrate= 279.7kbits/s dup=6988 drop=0 speed=6.63x    frame=14050 fps=199 q=29.0 size=   15874KiB time=00:07:48.26 bitrate= 277.7kbits/s dup=7040 drop=0 speed=6.63x    frame=14147 fps=199 q=29.0 size=   16130KiB time=00:07:51.50 bitrate= 280.2kbits/s dup=7088 drop=0 speed=6.63x    frame=14250 fps=199 q=29.0 size=   16130KiB time=00:07:54.93 bitrate= 278.2kbits/s dup=7140 drop=0 speed=6.63x    frame=14356 fps=199 q=29.0 size=   16386KiB time=00:07:58.46 bitrate= 280.5kbits/s dup=7193 drop=0 speed=6.63x    frame=14466 fps=199 q=29.0 size=   16386KiB time=00:08:02.13 bitrate= 278.4kbits/s dup=7244 drop=0 speed=6.64x    frame=14546 fps=199 q=29.0 size=   16642KiB time=00:08:04.80 bitrate= 281.2kbits/s dup=7283 drop=0 speed=6.63x    frame=14652 fps=199 q=29.0 size=   16642KiB time=00:08:08.33 bitrate= 279.2kbits/s dup=7340 drop=0 speed=6.63x    frame=14746 fps=199 q=29.0 size=   16642KiB time=00:08:11.46 bitrate= 277.4kbits/s dup=7383 drop=0 speed=6.63x    frame=14848 fps=199 q=29.0 size=   16898KiB time=00:08:14.86 bitrate= 279.7kbits/s dup=7438 drop=0 speed=6.63x    frame=14952 fps=199 q=29.0 size=   16898KiB time=00:08:18.33 bitrate= 277.8kbits/s dup=7491 drop=0 speed=6.63x    frame=15049 fps=199 q=29.0 size=   17154KiB time=00:08:21.56 bitrate= 280.2kbits/s dup=7539 drop=0 speed=6.63x    frame=15144 fps=199 q=29.0 size=   17154KiB time=00:08:24.73 bitrate= 278.4kbits/s dup=7583 drop=0 speed=6.63x    frame=15208 fps=198 q=29.0 size=   17410KiB time=00:08:26.86 bitrate= 281.4kbits/s dup=7616 drop=0 speed=6.61x    frame=15313 fps=199 q=29.0 size=   17410KiB time=00:08:30.36 bitrate= 279.4kbits/s dup=7671 drop=0 speed=6.62x    frame=15414 fps=199 q=29.0 size=   17410KiB time=00:08:33.73 bitrate= 277.6kbits/s dup=7721 drop=0 speed=6.62x    frame=15496 fps=198 q=29.0 size=   17666KiB time=00:08:36.46 bitrate= 280.2kbits/s dup=7758 drop=0 speed=6.61x    frame=15593 fps=198 q=29.0 size=   17922KiB time=00:08:39.70 bitrate= 282.5kbits/s dup=7810 drop=0 speed=6.61x    frame=15704 fps=198 q=29.0 size=   17922KiB time=00:08:43.40 bitrate= 280.5kbits/s dup=7866 drop=0 speed=6.61x    frame=15817 fps=199 q=29.0 size=   18178KiB time=00:08:47.16 bitrate= 282.5kbits/s dup=7922 drop=0 speed=6.62x    frame=15929 fps=199 q=29.0 size=   18178KiB time=00:08:50.90 bitrate= 280.5kbits/s dup=7976 drop=0 speed=6.63x    frame=16003 fps=198 q=29.0 size=   18434KiB time=00:08:53.36 bitrate= 283.1kbits/s dup=8013 drop=0 speed=6.61x    frame=16111 fps=199 q=29.0 size=   18434KiB time=00:08:56.96 bitrate= 281.2kbits/s dup=8069 drop=0 speed=6.62x    frame=16220 fps=199 q=29.0 size=   18434KiB time=00:09:00.60 bitrate= 279.3kbits/s dup=8121 drop=0 speed=6.62x    frame=16317 fps=199 q=29.0 size=   18690KiB time=00:09:03.83 bitrate= 281.5kbits/s dup=8173 drop=0 speed=6.62x    frame=16429 fps=199 q=29.0 size=   18690KiB time=00:09:07.56 bitrate= 279.6kbits/s dup=8226 drop=0 speed=6.63x    frame=16552 fps=199 q=29.0 size=   18946KiB time=00:09:11.66 bitrate= 281.3kbits/s dup=8290 drop=0 speed=6.64x    frame=16659 fps=199 q=29.0 size=   18946KiB time=00:09:15.23 bitrate= 279.5kbits/s dup=8340 drop=0 speed=6.64x    frame=16753 fps=199 q=29.0 size=   19202KiB time=00:09:18.36 bitrate= 281.7kbits/s dup=8390 drop=0 speed=6.64x    frame=16879 fps=199 q=29.0 size=   19202KiB time=00:09:22.56 bitrate= 279.6kbits/s dup=8450 drop=0 speed=6.65x    frame=16976 fps=199 q=29.0 size=   19202KiB time=00:09:25.80 bitrate= 278.0kbits/s dup=8502 drop=0 speed=6.65x    frame=17097 fps=200 q=29.0 size=   19458KiB time=00:09:29.83 bitrate= 279.7kbits/s dup=8560 drop=0 speed=6.65x    frame=17203 fps=200 q=29.0 size=   19714KiB time=00:09:33.36 bitrate= 281.7kbits/s dup=8616 drop=0 speed=6.66x    frame=17311 fps=200 q=29.0 size=   19714KiB time=00:09:36.96 bitrate= 279.9kbits/s dup=8669 drop=0 speed=6.66x    frame=17407 fps=200 q=29.0 size=   19970KiB time=00:09:40.16 bitrate= 282.0kbits/s dup=8719 drop=0 speed=6.66x    frame=17497 fps=200 q=29.0 size=   19970KiB time=00:09:43.16 bitrate= 280.5kbits/s dup=8764 drop=0 speed=6.65x    frame=17573 fps=199 q=29.0 size=   20226KiB time=00:09:45.70 bitrate= 282.9kbits/s dup=8797 drop=0 speed=6.64x    frame=17642 fps=199 q=29.0 size=   20226KiB time=00:09:48.00 bitrate= 281.8kbits/s dup=8835 drop=0 speed=6.63x    frame=17717 fps=199 q=29.0 size=   20226KiB time=00:09:50.50 bitrate= 280.6kbits/s dup=8873 drop=0 speed=6.62x    frame=17794 fps=198 q=29.0 size=   20482KiB time=00:09:53.06 bitrate= 282.9kbits/s dup=8910 drop=0 speed=6.62x    frame=17879 fps=198 q=29.0 size=   20482KiB time=00:09:55.90 bitrate= 281.6kbits/s dup=8954 drop=0 speed=6.61x    frame=17986 fps=198 q=29.0 size=   20482KiB time=00:09:59.46 bitrate= 279.9kbits/s dup=9007 drop=0 speed=6.61x    frame=18081 fps=198 q=29.0 size=   20482KiB time=00:10:02.63 bitrate= 278.4kbits/s dup=9054 drop=0 speed=6.61x    frame=18160 fps=198 q=29.0 size=   20738KiB time=00:10:05.26 bitrate= 280.7kbits/s dup=9090 drop=0 speed= 6.6x    frame=18247 fps=198 q=29.0 size=   20738KiB time=00:10:08.16 bitrate= 279.3kbits/s dup=9137 drop=0 speed= 6.6x    frame=18338 fps=198 q=29.0 size=   20994KiB time=00:10:11.20 bitrate= 281.4kbits/s dup=9184 drop=0 speed= 6.6x    frame=18458 fps=198 q=29.0 size=   20994KiB time=00:10:15.20 bitrate= 279.5kbits/s dup=9243 drop=0 speed= 6.6x    frame=18562 fps=198 q=29.0 size=   21250KiB time=00:10:18.70 bitrate= 281.4kbits/s dup=9296 drop=0 speed=6.61x    frame=18646 fps=198 q=29.0 size=   21250KiB time=00:10:21.46 bitrate= 280.1kbits/s dup=9337 drop=0 speed= 6.6x    frame=18741 fps=198 q=29.0 size=   21506KiB time=00:10:24.63 bitrate= 282.0kbits/s dup=9384 drop=0 speed= 6.6x    frame=18844 fps=198 q=29.0 size=   21506KiB time=00:10:28.06 bitrate= 280.5kbits/s dup=9435 drop=0 speed= 6.6x    frame=18962 fps=198 q=29.0 size=   21762KiB time=00:10:32.03 bitrate= 282.1kbits/s dup=9495 drop=0 speed=6.61x    frame=19058 fps=198 q=29.0 size=   22018KiB time=00:10:35.20 bitrate= 284.0kbits/s dup=9544 drop=0 speed=6.61x    frame=19124 fps=198 q=29.0 size=   22018KiB time=00:10:37.40 bitrate= 283.0kbits/s dup=9576 drop=0 speed=6.59x    frame=19217 fps=198 q=29.0 size=   22018KiB time=00:10:40.50 bitrate= 281.6kbits/s dup=9622 drop=0 speed=6.59x    frame=19332 fps=198 q=29.0 size=   22274KiB time=00:10:44.33 bitrate= 283.2kbits/s dup=9680 drop=0 speed= 6.6x    frame=19422 fps=198 q=29.0 size=   22274KiB time=00:10:47.33 bitrate= 281.9kbits/s dup=9725 drop=0 speed=6.59x    frame=19528 fps=198 q=29.0 size=   22530KiB time=00:10:50.86 bitrate= 283.6kbits/s dup=9779 drop=0 speed= 6.6x    frame=19634 fps=198 q=29.0 size=   22530KiB time=00:10:54.40 bitrate= 282.0kbits/s dup=9829 drop=0 speed= 6.6x    frame=19747 fps=198 q=29.0 size=   22530KiB time=00:10:58.16 bitrate= 280.4kbits/s dup=9888 drop=0 speed= 6.6x    frame=19862 fps=198 q=29.0 size=   22786KiB time=00:11:02.00 bitrate= 282.0kbits/s dup=9945 drop=0 speed=6.61x    frame=19958 fps=198 q=29.0 size=   22786KiB time=00:11:05.20 bitrate= 280.6kbits/s dup=9992 drop=0 speed=6.61x    [vf#0:0 @ 0x558644028880] More than 10000 frames duplicated
+frame=20052 fps=198 q=29.0 size=   23042KiB time=00:11:08.33 bitrate= 282.4kbits/s dup=10041 drop=0 speed=6.61x    frame=20153 fps=198 q=29.0 size=   23042KiB time=00:11:11.70 bitrate= 281.0kbits/s dup=10091 drop=0 speed=6.61x    frame=20247 fps=198 q=29.0 size=   23298KiB time=00:11:14.83 bitrate= 282.8kbits/s dup=10139 drop=0 speed=6.61x    frame=20344 fps=198 q=29.0 size=   23298KiB time=00:11:18.06 bitrate= 281.5kbits/s dup=10187 drop=0 speed= 6.6x    frame=20441 fps=198 q=29.0 size=   23554KiB time=00:11:21.30 bitrate= 283.2kbits/s dup=10233 drop=0 speed= 6.6x    frame=20535 fps=198 q=29.0 size=   23554KiB time=00:11:24.43 bitrate= 281.9kbits/s dup=10282 drop=0 speed= 6.6x    frame=20642 fps=198 q=29.0 size=   23554KiB time=N/A bitrate=N/A dup=10334 drop=0 speed=N/A    [mp4 @ 0x558644026c80] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0x558644026b40] video:14022KiB audio:9777KiB subtitle:11KiB other streams:0KiB global headers:0KiB muxing overhead: 2.923381%
+frame=20668 fps=198 q=-1.0 Lsize=   24506KiB time=00:11:28.86 bitrate= 291.4kbits/s dup=10334 drop=0 speed=6.61x    
+[libx264 @ 0x558643f926c0] frame I:83    Avg QP:15.63  size:107400
+[libx264 @ 0x558643f926c0] frame P:3477  Avg QP:22.35  size:  1068
+[libx264 @ 0x558643f926c0] frame B:17108 Avg QP:24.00  size:   101
+[libx264 @ 0x558643f926c0] consecutive B-frames:  0.4%  0.0%  0.8%  0.3%  1.5% 97.0%
+[libx264 @ 0x558643f926c0] mb I  I16..4: 77.1%  0.7% 22.2%
+[libx264 @ 0x558643f926c0] mb P  I16..4:  0.3%  0.0%  0.1%  P16..4:  0.8%  0.1%  0.1%  0.0%  0.0%    skip:98.7%
+[libx264 @ 0x558643f926c0] mb B  I16..4:  0.1%  0.0%  0.0%  B16..8:  0.3%  0.0%  0.0%  direct: 0.0%  skip:99.6%  L0:57.6% L1:42.3% BI: 0.1%
+[libx264 @ 0x558643f926c0] 8x8 transform intra:0.8% inter:4.0%
+[libx264 @ 0x558643f926c0] coded y,uvDC,uvAC intra: 18.0% 13.6% 10.3% inter: 0.0% 0.1% 0.0%
+[libx264 @ 0x558643f926c0] i16 v,h,dc,p: 70% 28%  2%  0%
+[libx264 @ 0x558643f926c0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 20% 26% 37%  4%  3%  2%  3%  2%  4%
+[libx264 @ 0x558643f926c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 26% 21% 19%  6%  5%  6%  5%  7%  5%
+[libx264 @ 0x558643f926c0] i8c dc,h,v,p: 65% 27%  6%  1%
+[libx264 @ 0x558643f926c0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0x558643f926c0] kb/s:166.73
+[aac @ 0x55864402ad00] Qavg: 19567.727

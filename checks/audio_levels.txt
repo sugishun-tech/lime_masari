@@ -1,0 +1,220 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/mnt/data/langlands_lime_masari_voiced.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : ライムとマサリのゆったり解説｜ラングランズ・プログラム
+    encoder         : Lavf61.7.103
+    comment         : 新規制作キャラクター：ライム、マサリ。音声は独自調整したeSpeak合成音声。
+  Duration: 00:11:28.94, start: 0.000000, bitrate: 291 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 27.133000
+      Metadata:
+        title           : ラングランズ・プログラム
+    Chapter #0:1: start 27.133000, end 47.667000
+      Metadata:
+        title           : 一つの予想ではなく、関連する構想の集まり
+    Chapter #0:2: start 47.667000, end 69.867000
+      Metadata:
+        title           : 出発点は、この方程式
+    Chapter #0:3: start 69.867000, end 92.133000
+      Metadata:
+        title           : 5 で割った余りの世界
+    Chapter #0:4: start 92.133000, end 115.200000
+      Metadata:
+        title           : 点の個数から、素数ごとの係数へ
+    Chapter #0:5: start 115.200000, end 138.267000
+      Metadata:
+        title           : もう一方は「保型形式」
+    Chapter #0:6: start 138.267000, end 163.733000
+      Metadata:
+        title           : 関数を、係数の列として読む
+    Chapter #0:7: start 163.733000, end 191.267000
+      Metadata:
+        title           : 実際に対応する関数
+    Chapter #0:8: start 191.267000, end 214.667000
+      Metadata:
+        title           : 一致するのは、素数ごとのデータ
+    Chapter #0:9: start 214.667000, end 239.267000
+      Metadata:
+        title           : モジュラー性定理
+    Chapter #0:10: start 239.267000, end 260.733000
+      Metadata:
+        title           : ガロア群は、計算関係を保つ対称性
+    Chapter #0:11: start 260.733000, end 286.067000
+      Metadata:
+        title           : 対称性を行列として表す
+    Chapter #0:12: start 286.067000, end 312.067000
+      Metadata:
+        title           : 楕円曲線から、2 次元の表現が生まれる
+    Chapter #0:13: start 312.067000, end 339.600000
+      Metadata:
+        title           : 点数の差は、行列のトレースだった
+    Chapter #0:14: start 339.600000, end 365.133000
+      Metadata:
+        title           : 同じ二次式を、比較の単位にする
+    Chapter #0:15: start 365.133000, end 391.133000
+      Metadata:
+        title           : 素数ごとの情報を、L 因子にする
+    Chapter #0:16: start 391.133000, end 417.600000
+      Metadata:
+        title           : 素数ごとの因子を掛け合わせる
+    Chapter #0:17: start 417.600000, end 442.933000
+      Metadata:
+        title           : 相互法則は、情報を保つ対応を求める
+    Chapter #0:18: start 442.933000, end 469.467000
+      Metadata:
+        title           : 相互法則の見取り図
+    Chapter #0:19: start 469.467000, end 491.800000
+      Metadata:
+        title           : 保型「形式」から、保型「表現」へ
+    Chapter #0:20: start 491.800000, end 517.200000
+      Metadata:
+        title           : 局所と大域は、同じ言葉ではない
+    Chapter #0:21: start 517.200000, end 541.133000
+      Metadata:
+        title           : 1 次元の場合の基盤は、類体論
+    Chapter #0:22: start 541.133000, end 566.000000
+      Metadata:
+        title           : もう一つの柱：関手性
+    Chapter #0:23: start 566.000000, end 594.000000
+      Metadata:
+        title           : 例：2 次元の対称二乗は 3 次元
+    Chapter #0:24: start 594.000000, end 620.200000
+      Metadata:
+        title           : 定理になっている領域の例
+    Chapter #0:25: start 620.200000, end 645.467000
+      Metadata:
+        title           : 幾何学的ラングランズとの区別
+    Chapter #0:26: start 645.467000, end 674.333000
+      Metadata:
+        title           : 覚えるのは、三つの問い
+    Chapter #0:27: start 674.333000, end 688.933000
+      Metadata:
+        title           : 出典・制作情報
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1920x1080, 166 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 116 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+  Stream #0:2[0x3](jpn): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s (default)
+      Metadata:
+        handler_name    : SubtitleHandler
+  Stream #0:3[0x4](eng): Data: bin_data (text / 0x74786574), 0 kb/s
+      Metadata:
+        handler_name    : SubtitleHandler
+[Parsed_volumedetect_0 @ 0x564bf1f9b280] n_samples: 0
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : ライムとマサリのゆったり解説｜ラングランズ・プログラム
+    comment         : 新規制作キャラクター：ライム、マサリ。音声は独自調整したeSpeak合成音声。
+    encoder         : Lavf61.7.103
+  Chapters:
+    Chapter #0:0: start 0.000000, end 27.133000
+      Metadata:
+        title           : ラングランズ・プログラム
+    Chapter #0:1: start 27.133000, end 47.667000
+      Metadata:
+        title           : 一つの予想ではなく、関連する構想の集まり
+    Chapter #0:2: start 47.667000, end 69.867000
+      Metadata:
+        title           : 出発点は、この方程式
+    Chapter #0:3: start 69.867000, end 92.133000
+      Metadata:
+        title           : 5 で割った余りの世界
+    Chapter #0:4: start 92.133000, end 115.200000
+      Metadata:
+        title           : 点の個数から、素数ごとの係数へ
+    Chapter #0:5: start 115.200000, end 138.267000
+      Metadata:
+        title           : もう一方は「保型形式」
+    Chapter #0:6: start 138.267000, end 163.733000
+      Metadata:
+        title           : 関数を、係数の列として読む
+    Chapter #0:7: start 163.733000, end 191.267000
+      Metadata:
+        title           : 実際に対応する関数
+    Chapter #0:8: start 191.267000, end 214.667000
+      Metadata:
+        title           : 一致するのは、素数ごとのデータ
+    Chapter #0:9: start 214.667000, end 239.267000
+      Metadata:
+        title           : モジュラー性定理
+    Chapter #0:10: start 239.267000, end 260.733000
+      Metadata:
+        title           : ガロア群は、計算関係を保つ対称性
+    Chapter #0:11: start 260.733000, end 286.067000
+      Metadata:
+        title           : 対称性を行列として表す
+    Chapter #0:12: start 286.067000, end 312.067000
+      Metadata:
+        title           : 楕円曲線から、2 次元の表現が生まれる
+    Chapter #0:13: start 312.067000, end 339.600000
+      Metadata:
+        title           : 点数の差は、行列のトレースだった
+    Chapter #0:14: start 339.600000, end 365.133000
+      Metadata:
+        title           : 同じ二次式を、比較の単位にする
+    Chapter #0:15: start 365.133000, end 391.133000
+      Metadata:
+        title           : 素数ごとの情報を、L 因子にする
+    Chapter #0:16: start 391.133000, end 417.600000
+      Metadata:
+        title           : 素数ごとの因子を掛け合わせる
+    Chapter #0:17: start 417.600000, end 442.933000
+      Metadata:
+        title           : 相互法則は、情報を保つ対応を求める
+    Chapter #0:18: start 442.933000, end 469.467000
+      Metadata:
+        title           : 相互法則の見取り図
+    Chapter #0:19: start 469.467000, end 491.800000
+      Metadata:
+        title           : 保型「形式」から、保型「表現」へ
+    Chapter #0:20: start 491.800000, end 517.200000
+      Metadata:
+        title           : 局所と大域は、同じ言葉ではない
+    Chapter #0:21: start 517.200000, end 541.133000
+      Metadata:
+        title           : 1 次元の場合の基盤は、類体論
+    Chapter #0:22: start 541.133000, end 566.000000
+      Metadata:
+        title           : もう一つの柱：関手性
+    Chapter #0:23: start 566.000000, end 594.000000
+      Metadata:
+        title           : 例：2 次元の対称二乗は 3 次元
+    Chapter #0:24: start 594.000000, end 620.200000
+      Metadata:
+        title           : 定理になっている領域の例
+    Chapter #0:25: start 620.200000, end 645.467000
+      Metadata:
+        title           : 幾何学的ラングランズとの区別
+    Chapter #0:26: start 645.467000, end 674.333000
+      Metadata:
+        title           : 覚えるのは、三つの問い
+    Chapter #0:27: start 674.333000, end 688.933000
+      Metadata:
+        title           : 出典・制作情報
+  Stream #0:0(und): Audio: pcm_s16le, 48000 Hz, mono, s16, 768 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 pcm_s16le
+size=N/A time=00:10:52.37 bitrate=N/A speed=1.3e+03x    
+[Parsed_volumedetect_0 @ 0x7f48b8002400] n_samples: 33065984
+[Parsed_volumedetect_0 @ 0x7f48b8002400] mean_volume: -18.9 dB
+[Parsed_volumedetect_0 @ 0x7f48b8002400] max_volume: -2.4 dB
+[Parsed_volumedetect_0 @ 0x7f48b8002400] histogram_2db: 1819
+[Parsed_volumedetect_0 @ 0x7f48b8002400] histogram_3db: 20800
+[Parsed_volumedetect_0 @ 0x7f48b8002400] histogram_4db: 27003
+[out#0/null @ 0x564bf1dac0c0] video:0KiB audio:64582KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+size=N/A time=00:11:28.94 bitrate=N/A speed=1.3e+03x    

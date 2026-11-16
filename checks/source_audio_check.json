@@ -1,0 +1,678 @@
+{
+  "all_passed": true,
+  "cue_count": 84,
+  "cues": [
+    {
+      "id": "01_01",
+      "speaker": "lime",
+      "seconds": 4.4263125,
+      "rms": 0.12909466392505667,
+      "peak": 0.79595947265625,
+      "kana_validation": true
+    },
+    {
+      "id": "01_02",
+      "speaker": "masari",
+      "seconds": 6.422770833333334,
+      "rms": 0.13274149931743706,
+      "peak": 0.7977294921875,
+      "kana_validation": true
+    },
+    {
+      "id": "01_03",
+      "speaker": "lime",
+      "seconds": 5.11225,
+      "rms": 0.13089027406945883,
+      "peak": 0.79595947265625,
+      "kana_validation": true
+    },
+    {
+      "id": "01_04",
+      "speaker": "masari",
+      "seconds": 8.01025,
+      "rms": 0.13410683247638047,
+      "peak": 0.7991943359375,
+      "kana_validation": true
+    },
+    {
+      "id": "02_01",
+      "speaker": "lime",
+      "seconds": 3.6068541666666665,
+      "rms": 0.1729517087099124,
+      "peak": 0.779937744140625,
+      "kana_validation": true
+    },
+    {
+      "id": "02_02",
+      "speaker": "masari",
+      "seconds": 8.1360625,
+      "rms": 0.13997113578521286,
+      "peak": 0.795562744140625,
+      "kana_validation": true
+    },
+    {
+      "id": "02_03",
+      "speaker": "lime",
+      "seconds": 6.398145833333333,
+      "rms": 0.13446016711759462,
+      "peak": 0.792266845703125,
+      "kana_validation": true
+    },
+    {
+      "id": "03_01",
+      "speaker": "masari",
+      "seconds": 7.761645833333334,
+      "rms": 0.1311180674407193,
+      "peak": 0.79974365234375,
+      "kana_validation": true
+    },
+    {
+      "id": "03_02",
+      "speaker": "lime",
+      "seconds": 4.495166666666667,
+      "rms": 0.1324570439434619,
+      "peak": 0.799407958984375,
+      "kana_validation": true
+    },
+    {
+      "id": "03_03",
+      "speaker": "masari",
+      "seconds": 7.015708333333333,
+      "rms": 0.13355171230245091,
+      "peak": 0.791748046875,
+      "kana_validation": true
+    },
+    {
+      "id": "04_01",
+      "speaker": "masari",
+      "seconds": 5.814208333333333,
+      "rms": 0.1390565848747585,
+      "peak": 0.797332763671875,
+      "kana_validation": true
+    },
+    {
+      "id": "04_02",
+      "speaker": "lime",
+      "seconds": 5.302104166666667,
+      "rms": 0.12943306011405792,
+      "peak": 0.78485107421875,
+      "kana_validation": true
+    },
+    {
+      "id": "04_03",
+      "speaker": "masari",
+      "seconds": 8.145541666666666,
+      "rms": 0.12744168252960664,
+      "peak": 0.795501708984375,
+      "kana_validation": true
+    },
+    {
+      "id": "05_01",
+      "speaker": "masari",
+      "seconds": 7.316604166666667,
+      "rms": 0.1295609930143445,
+      "peak": 0.794677734375,
+      "kana_validation": true
+    },
+    {
+      "id": "05_02",
+      "speaker": "lime",
+      "seconds": 6.8559375,
+      "rms": 0.1324040932324201,
+      "peak": 0.79425048828125,
+      "kana_validation": true
+    },
+    {
+      "id": "05_03",
+      "speaker": "masari",
+      "seconds": 6.434666666666667,
+      "rms": 0.1260720336941214,
+      "peak": 0.796875,
+      "kana_validation": true
+    },
+    {
+      "id": "06_01",
+      "speaker": "masari",
+      "seconds": 6.195020833333333,
+      "rms": 0.1353873392202341,
+      "peak": 0.79571533203125,
+      "kana_validation": true
+    },
+    {
+      "id": "06_02",
+      "speaker": "lime",
+      "seconds": 4.4586875,
+      "rms": 0.13348037957454917,
+      "peak": 0.79718017578125,
+      "kana_validation": true
+    },
+    {
+      "id": "06_03",
+      "speaker": "masari",
+      "seconds": 9.402875,
+      "rms": 0.13140973976092046,
+      "peak": 0.797393798828125,
+      "kana_validation": true
+    },
+    {
+      "id": "07_01",
+      "speaker": "masari",
+      "seconds": 7.067270833333334,
+      "rms": 0.12536817160092242,
+      "peak": 0.798553466796875,
+      "kana_validation": true
+    },
+    {
+      "id": "07_02",
+      "speaker": "lime",
+      "seconds": 7.9083125,
+      "rms": 0.12666337622709473,
+      "peak": 0.798828125,
+      "kana_validation": true
+    },
+    {
+      "id": "07_03",
+      "speaker": "masari",
+      "seconds": 7.476916666666667,
+      "rms": 0.12942120893265024,
+      "peak": 0.80340576171875,
+      "kana_validation": true
+    },
+    {
+      "id": "08_01",
+      "speaker": "masari",
+      "seconds": 8.300375,
+      "rms": 0.13210285026001703,
+      "peak": 0.789642333984375,
+      "kana_validation": true
+    },
+    {
+      "id": "08_02",
+      "speaker": "lime",
+      "seconds": 7.51325,
+      "rms": 0.13035583672376597,
+      "peak": 0.8028564453125,
+      "kana_validation": true
+    },
+    {
+      "id": "08_03",
+      "speaker": "masari",
+      "seconds": 8.676875,
+      "rms": 0.13744256624714546,
+      "peak": 0.79876708984375,
+      "kana_validation": true
+    },
+    {
+      "id": "09_01",
+      "speaker": "lime",
+      "seconds": 6.4345625,
+      "rms": 0.13554373050133733,
+      "peak": 0.785064697265625,
+      "kana_validation": true
+    },
+    {
+      "id": "09_02",
+      "speaker": "masari",
+      "seconds": 6.9889375,
+      "rms": 0.1376002921756174,
+      "peak": 0.796783447265625,
+      "kana_validation": true
+    },
+    {
+      "id": "09_03",
+      "speaker": "lime",
+      "seconds": 6.9445,
+      "rms": 0.1279729507004213,
+      "peak": 0.798980712890625,
+      "kana_validation": true
+    },
+    {
+      "id": "10_01",
+      "speaker": "masari",
+      "seconds": 6.038104166666667,
+      "rms": 0.13892184213669098,
+      "peak": 0.797271728515625,
+      "kana_validation": true
+    },
+    {
+      "id": "10_02",
+      "speaker": "lime",
+      "seconds": 5.105,
+      "rms": 0.13075006619677043,
+      "peak": 0.78009033203125,
+      "kana_validation": true
+    },
+    {
+      "id": "10_03",
+      "speaker": "masari",
+      "seconds": 10.403,
+      "rms": 0.13656634173690907,
+      "peak": 0.7962646484375,
+      "kana_validation": true
+    },
+    {
+      "id": "11_01",
+      "speaker": "masari",
+      "seconds": 6.745895833333333,
+      "rms": 0.1363314495736393,
+      "peak": 0.797271728515625,
+      "kana_validation": true
+    },
+    {
+      "id": "11_02",
+      "speaker": "lime",
+      "seconds": 3.787625,
+      "rms": 0.13160066481967972,
+      "peak": 0.79364013671875,
+      "kana_validation": true
+    },
+    {
+      "id": "11_03",
+      "speaker": "masari",
+      "seconds": 8.516875,
+      "rms": 0.12474202057837516,
+      "peak": 0.79937744140625,
+      "kana_validation": true
+    },
+    {
+      "id": "12_01",
+      "speaker": "masari",
+      "seconds": 9.318375,
+      "rms": 0.13498874141344458,
+      "peak": 0.7994384765625,
+      "kana_validation": true
+    },
+    {
+      "id": "12_02",
+      "speaker": "lime",
+      "seconds": 5.3945625,
+      "rms": 0.13637408966330405,
+      "peak": 0.786468505859375,
+      "kana_validation": true
+    },
+    {
+      "id": "12_03",
+      "speaker": "masari",
+      "seconds": 7.59425,
+      "rms": 0.1392356881616319,
+      "peak": 0.79852294921875,
+      "kana_validation": true
+    },
+    {
+      "id": "13_01",
+      "speaker": "lime",
+      "seconds": 5.273833333333333,
+      "rms": 0.1363601933235683,
+      "peak": 0.79461669921875,
+      "kana_validation": true
+    },
+    {
+      "id": "13_02",
+      "speaker": "masari",
+      "seconds": 7.991854166666666,
+      "rms": 0.12616186434349988,
+      "peak": 0.79461669921875,
+      "kana_validation": true
+    },
+    {
+      "id": "13_03",
+      "speaker": "masari",
+      "seconds": 9.73125,
+      "rms": 0.13922583370519703,
+      "peak": 0.796905517578125,
+      "kana_validation": true
+    },
+    {
+      "id": "14_01",
+      "speaker": "masari",
+      "seconds": 8.297416666666667,
+      "rms": 0.13732775079970228,
+      "peak": 0.795928955078125,
+      "kana_validation": true
+    },
+    {
+      "id": "14_02",
+      "speaker": "lime",
+      "seconds": 9.486,
+      "rms": 0.12617424038696637,
+      "peak": 0.798431396484375,
+      "kana_validation": true
+    },
+    {
+      "id": "14_03",
+      "speaker": "masari",
+      "seconds": 6.725041666666667,
+      "rms": 0.12775063819034196,
+      "peak": 0.797943115234375,
+      "kana_validation": true
+    },
+    {
+      "id": "15_01",
+      "speaker": "masari",
+      "seconds": 7.447041666666666,
+      "rms": 0.13464420418702563,
+      "peak": 0.792022705078125,
+      "kana_validation": true
+    },
+    {
+      "id": "15_02",
+      "speaker": "lime",
+      "seconds": 7.41525,
+      "rms": 0.1253750827565271,
+      "peak": 0.795257568359375,
+      "kana_validation": true
+    },
+    {
+      "id": "15_03",
+      "speaker": "masari",
+      "seconds": 7.673979166666666,
+      "rms": 0.14677127881151775,
+      "peak": 0.79693603515625,
+      "kana_validation": true
+    },
+    {
+      "id": "16_01",
+      "speaker": "masari",
+      "seconds": 7.845041666666667,
+      "rms": 0.12723325807185015,
+      "peak": 0.794830322265625,
+      "kana_validation": true
+    },
+    {
+      "id": "16_02",
+      "speaker": "lime",
+      "seconds": 7.376708333333333,
+      "rms": 0.13872962186555957,
+      "peak": 0.80120849609375,
+      "kana_validation": true
+    },
+    {
+      "id": "16_03",
+      "speaker": "masari",
+      "seconds": 7.7381875,
+      "rms": 0.13517777235936088,
+      "peak": 0.792877197265625,
+      "kana_validation": true
+    },
+    {
+      "id": "17_01",
+      "speaker": "masari",
+      "seconds": 8.548625,
+      "rms": 0.13352604355309308,
+      "peak": 0.798431396484375,
+      "kana_validation": true
+    },
+    {
+      "id": "17_02",
+      "speaker": "lime",
+      "seconds": 5.301833333333334,
+      "rms": 0.12740084428913834,
+      "peak": 0.791595458984375,
+      "kana_validation": true
+    },
+    {
+      "id": "17_03",
+      "speaker": "masari",
+      "seconds": 9.618104166666667,
+      "rms": 0.1282743732332046,
+      "peak": 0.794219970703125,
+      "kana_validation": true
+    },
+    {
+      "id": "18_01",
+      "speaker": "lime",
+      "seconds": 6.433333333333334,
+      "rms": 0.1388720858442585,
+      "peak": 0.79095458984375,
+      "kana_validation": true
+    },
+    {
+      "id": "18_02",
+      "speaker": "masari",
+      "seconds": 9.354708333333333,
+      "rms": 0.13520884190031607,
+      "peak": 0.799774169921875,
+      "kana_validation": true
+    },
+    {
+      "id": "18_03",
+      "speaker": "lime",
+      "seconds": 7.132854166666666,
+      "rms": 0.1341709765981818,
+      "peak": 0.79840087890625,
+      "kana_validation": true
+    },
+    {
+      "id": "19_01",
+      "speaker": "masari",
+      "seconds": 7.406541666666667,
+      "rms": 0.13718334209037053,
+      "peak": 0.799957275390625,
+      "kana_validation": true
+    },
+    {
+      "id": "19_02",
+      "speaker": "lime",
+      "seconds": 8.0053125,
+      "rms": 0.12391632591619245,
+      "peak": 0.789520263671875,
+      "kana_validation": true
+    },
+    {
+      "id": "19_03",
+      "speaker": "masari",
+      "seconds": 8.698333333333334,
+      "rms": 0.13155656195458326,
+      "peak": 0.796295166015625,
+      "kana_validation": true
+    },
+    {
+      "id": "20_01",
+      "speaker": "lime",
+      "seconds": 4.329583333333333,
+      "rms": 0.13545313147556973,
+      "peak": 0.797454833984375,
+      "kana_validation": true
+    },
+    {
+      "id": "20_02",
+      "speaker": "masari",
+      "seconds": 7.509666666666667,
+      "rms": 0.13661300016295597,
+      "peak": 0.795501708984375,
+      "kana_validation": true
+    },
+    {
+      "id": "20_03",
+      "speaker": "masari",
+      "seconds": 8.06,
+      "rms": 0.14219410321577966,
+      "peak": 0.798675537109375,
+      "kana_validation": true
+    },
+    {
+      "id": "21_01",
+      "speaker": "masari",
+      "seconds": 8.148041666666666,
+      "rms": 0.1333959945446019,
+      "peak": 0.792877197265625,
+      "kana_validation": true
+    },
+    {
+      "id": "21_02",
+      "speaker": "lime",
+      "seconds": 4.5734375,
+      "rms": 0.13571135488565214,
+      "peak": 0.795196533203125,
+      "kana_validation": true
+    },
+    {
+      "id": "21_03",
+      "speaker": "masari",
+      "seconds": 10.244458333333334,
+      "rms": 0.13492977720595384,
+      "peak": 0.79327392578125,
+      "kana_validation": true
+    },
+    {
+      "id": "22_01",
+      "speaker": "masari",
+      "seconds": 8.173333333333334,
+      "rms": 0.13405284842348775,
+      "peak": 0.795654296875,
+      "kana_validation": true
+    },
+    {
+      "id": "22_02",
+      "speaker": "lime",
+      "seconds": 4.616708333333333,
+      "rms": 0.13568659035723338,
+      "peak": 0.797698974609375,
+      "kana_validation": true
+    },
+    {
+      "id": "22_03",
+      "speaker": "masari",
+      "seconds": 8.124416666666667,
+      "rms": 0.14439152712726022,
+      "peak": 0.79779052734375,
+      "kana_validation": true
+    },
+    {
+      "id": "23_01",
+      "speaker": "lime",
+      "seconds": 4.89625,
+      "rms": 0.12774483703745754,
+      "peak": 0.782684326171875,
+      "kana_validation": true
+    },
+    {
+      "id": "23_02",
+      "speaker": "masari",
+      "seconds": 8.0714375,
+      "rms": 0.13336094917073904,
+      "peak": 0.799530029296875,
+      "kana_validation": true
+    },
+    {
+      "id": "23_03",
+      "speaker": "masari",
+      "seconds": 9.5033125,
+      "rms": 0.14034883474873008,
+      "peak": 0.795379638671875,
+      "kana_validation": true
+    },
+    {
+      "id": "24_01",
+      "speaker": "masari",
+      "seconds": 9.883875,
+      "rms": 0.1299458455218547,
+      "peak": 0.799163818359375,
+      "kana_validation": true
+    },
+    {
+      "id": "24_02",
+      "speaker": "lime",
+      "seconds": 5.679958333333333,
+      "rms": 0.1418444435245951,
+      "peak": 0.796112060546875,
+      "kana_validation": true
+    },
+    {
+      "id": "24_03",
+      "speaker": "masari",
+      "seconds": 9.489895833333334,
+      "rms": 0.13477593843834848,
+      "peak": 0.79510498046875,
+      "kana_validation": true
+    },
+    {
+      "id": "25_01",
+      "speaker": "masari",
+      "seconds": 9.522,
+      "rms": 0.1321007082708386,
+      "peak": 0.792724609375,
+      "kana_validation": true
+    },
+    {
+      "id": "25_02",
+      "speaker": "lime",
+      "seconds": 4.8135208333333335,
+      "rms": 0.13954417407988393,
+      "peak": 0.797027587890625,
+      "kana_validation": true
+    },
+    {
+      "id": "25_03",
+      "speaker": "masari",
+      "seconds": 9.483375,
+      "rms": 0.12909380092173348,
+      "peak": 0.79638671875,
+      "kana_validation": true
+    },
+    {
+      "id": "26_01",
+      "speaker": "lime",
+      "seconds": 5.222875,
+      "rms": 0.129789814517682,
+      "peak": 0.796142578125,
+      "kana_validation": true
+    },
+    {
+      "id": "26_02",
+      "speaker": "masari",
+      "seconds": 10.007583333333333,
+      "rms": 0.13616040210651373,
+      "peak": 0.7972412109375,
+      "kana_validation": true
+    },
+    {
+      "id": "26_03",
+      "speaker": "lime",
+      "seconds": 7.634604166666667,
+      "rms": 0.12840268654020529,
+      "peak": 0.791900634765625,
+      "kana_validation": true
+    },
+    {
+      "id": "27_01",
+      "speaker": "lime",
+      "seconds": 8.865958333333333,
+      "rms": 0.12918456861040176,
+      "peak": 0.796844482421875,
+      "kana_validation": true
+    },
+    {
+      "id": "27_02",
+      "speaker": "masari",
+      "seconds": 9.626,
+      "rms": 0.13299150741977578,
+      "peak": 0.796356201171875,
+      "kana_validation": true
+    },
+    {
+      "id": "27_03",
+      "speaker": "lime",
+      "seconds": 7.9794583333333335,
+      "rms": 0.13170563146420813,
+      "peak": 0.7991943359375,
+      "kana_validation": true
+    },
+    {
+      "id": "28_01",
+      "speaker": "masari",
+      "seconds": 6.863145833333333,
+      "rms": 0.1300689599509577,
+      "peak": 0.7939453125,
+      "kana_validation": true
+    },
+    {
+      "id": "28_02",
+      "speaker": "lime",
+      "seconds": 6.154791666666667,
+      "rms": 0.1235154882602802,
+      "peak": 0.79443359375,
+      "kana_validation": true
+    }
+  ]
+}

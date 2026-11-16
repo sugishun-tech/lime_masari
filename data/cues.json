@@ -1,0 +1,842 @@
+[
+  {
+    "id": "01_01",
+    "scene": "01",
+    "speaker": "lime",
+    "mood": "happy",
+    "subtitle": "ライムだよ。ライムとマサリの、ゆったり解説へようこそ。",
+    "kana": "らいむだよ。らいむと まさりの、ゆったり かいせつえ ようこそ。",
+    "phonemes": "[[*'aimudajo]] . [[*'aimuto m'asa*ino]] , [[j'u_:ta*i k'aisetsue j'o:koso]] .",
+    "audio_duration": 4.4263125
+  },
+  {
+    "id": "01_02",
+    "scene": "01",
+    "speaker": "masari",
+    "mood": "happy",
+    "subtitle": "マサリよ。今日はラングランズ・プログラム。まずは点を数えるところから始めましょう。",
+    "kana": "まさりよ。きょうわ らんぐらんず ぷろぐらむ。まずわ てんお かぞえる ところから はじめましょう。",
+    "phonemes": "[[m'asa*ijo]] . [[kj'o:wa *'aNgu*anzu p'u*ogu*amu]] . [[m'azuwa t'eNo k'azoe*u t'oko*oka*a h'adZimemaSo:]] .",
+    "audio_duration": 6.422770833333334
+  },
+  {
+    "id": "01_03",
+    "scene": "01",
+    "speaker": "lime",
+    "mood": "skeptical",
+    "subtitle": "「数学を統一する」だけで終わったら、看板を読んだだけだからね。",
+    "kana": "すうがくお とういつする、だけで おわったら、かんばんお よんだ だけ だからね。",
+    "phonemes": "[[s'u:gakuo t'o:itsusu*u]] , [[d'akede 'owa_:ta*a]] , [[k'ambaNo j'onda d'ake d'aka*ane]] .",
+    "audio_duration": 5.11225
+  },
+  {
+    "id": "01_04",
+    "scene": "01",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "今回は実物を見る。方程式の解を数えると、別の世界の関数に同じ数が現れるの。",
+    "kana": "こんかいわ じつぶつお みる。ほうていしきの かいお かぞえると、べつの せかいの かんすうに おなじ かずが あらわれるの。",
+    "phonemes": "[[k'oNkaiwa dZ'itsubutsuo m'i*u]] . [[h'o:te:Sikino k'aio k'azoe*uto]] , [[b'etsuno s'ekaino k'ansu:ni 'onadZi k'azuga 'a*awa*e*uno]] .",
+    "audio_duration": 8.01025
+  },
+  {
+    "id": "02_01",
+    "scene": "02",
+    "speaker": "lime",
+    "mood": "normal",
+    "subtitle": "まず、何がわかれば入口に立ったと言えるの？",
+    "kana": "まず、なにが わかれば いりぐちに たったと いえるの？",
+    "phonemes": "[[m'azu]] , [[n'aniga w'aka*eba 'i*igutSini t'a_:tato 'ie*uno]] ?",
+    "audio_duration": 3.6068541666666665
+  },
+  {
+    "id": "02_02",
+    "scene": "02",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "何と何が対応し、どの情報が保たれるのか。今日はそこを追っていくわ。全部を証明する講義ではない。",
+    "kana": "なにと なにが たいおうし、どの じょうほうが たもたれるのか。きょうわ そこお おっていくわ。ぜんぶお しょうめいする こうぎでわ ない。",
+    "phonemes": "[[n'anito n'aniga t'aio:Si]] , [[d'ono dZ'o:ho:ga t'amota*e*unoka]] . [[kj'o:wa s'oko: 'o_:te:kuwa]] . [[z'embuo S'o:me:su*u k'o:gidewa n'ai]] .",
+    "audio_duration": 8.1360625
+  },
+  {
+    "id": "02_03",
+    "scene": "02",
+    "speaker": "lime",
+    "mood": "happy",
+    "subtitle": "数式は画面で見て、耳では意味を聞くのね。記号の読み上げ大会は遠慮するわ。",
+    "kana": "すうしきわ がめんで みて、みみでわ いみお きくのね。きごうの よみあげ たいかいわ えんりょするわ。",
+    "phonemes": "[[s'u:Sikiwa g'amende m'ite]] , [[m'imidewa 'imio k'ikunone]] . [[k'igo:no j'omiage t'aikaiwa 'eN*josu*uwa]] .",
+    "audio_duration": 6.398145833333333
+  },
+  {
+    "id": "03_01",
+    "scene": "03",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "出発点は、この楕円曲線だ。ワイの二乗が、エックスの三乗からエックスを引いたものに等しい。",
+    "kana": "しゅっぱつてんわ、この だえんきょくせの。わいの にじょうが、えっくすの さんじょうから えっくすお ひいたものに ひとしい。",
+    "phonemes": "[[S'u_:patsuteNwa]] , [[k'ono d'aeNkjokuseno]] . [[w'aino n'idZo:ga]] , [['e_:kusuno s'andZo:ka*a 'e_:kusuo C'i:tamononi C'itoSi:]] .",
+    "audio_duration": 7.761645833333334
+  },
+  {
+    "id": "03_02",
+    "scene": "03",
+    "speaker": "lime",
+    "mood": "normal",
+    "subtitle": "グラフの形を眺めるのではなく、解の個数を調べるの？",
+    "kana": "ぐらふの かたちお ながめるのでわ なく、かいの こすうお しらべるの？",
+    "phonemes": "[[g'u*afuno k'atatSio n'agame*unodewa n'aku]] , [[k'aino k'osu:o S'i*abe*uno]] ?",
+    "audio_duration": 4.495166666666667
+  },
+  {
+    "id": "03_03",
+    "scene": "03",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "そう。有理数の解を直接探す前に、素数で割った余りの世界で計算してみるの。",
+    "kana": "そう。ゆうりすうの かいお ちょくせつ さがす まえに、そすうで わった あまりの せかいで けいさんして みるの。",
+    "phonemes": "[[s'o:]] . [[j'u:*isu:no k'aio tS'okusetsu s'agasu m'aeni]] , [[s'osu:de w'a_:ta 'ama*ino s'ekaide k'e:sanSite m'i*uno]] .",
+    "audio_duration": 7.015708333333333
+  },
+  {
+    "id": "04_01",
+    "scene": "04",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "五で割った余りなら、座標はゼロから四まで。候補は全部で二十五組だ。",
+    "kana": "ごで わった あまりなら、ざひょうわ ぜろから よんまで。こうほわ ぜんぶで にじゅうごくみだ。",
+    "phonemes": "[[g'ode w'a_:ta 'ama*ina*a]] , [[z'aCo:wa z'e*oka*a j'ommade]] . [[k'o:howa z'embude n'idZu:gokumida]] .",
+    "audio_duration": 5.814208333333333
+  },
+  {
+    "id": "04_02",
+    "scene": "04",
+    "speaker": "lime",
+    "mood": "normal",
+    "subtitle": "格子の大きな点が、式を満たす組ね。数えると七個あるわ。",
+    "kana": "こうしの おおきな てんが、しきお みたす くみね。かぞえると ななこ あるわ。",
+    "phonemes": "[[k'o:Sino 'o:kina t'eNga]] , [[S'ikio m'itasu k'umine]] . [[k'azoe*uto n'anako 'a*uwa]] .",
+    "audio_duration": 5.302104166666667
+  },
+  {
+    "id": "04_03",
+    "scene": "04",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "ただし楕円曲線の点としては、無限遠点を一つ加える。ここで使う点の個数は八になるわ。",
+    "kana": "ただし だえんきょくせんの てんとしてわ、むげんえんてんお ひとつ くわえる。ここで つかう てんの こすうわ はちに なるわ。",
+    "phonemes": "[[t'adaSi d'aeNkjokusenno t'entoSitewa]] , [[m'ugeNenteNo C'itotsu k'uwae*u]] . [[k'okode ts'ukau t'enno k'osu:wa h'atSini n'a*uwa]] .",
+    "audio_duration": 8.145541666666666
+  },
+  {
+    "id": "05_01",
+    "scene": "05",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "その素数に一を足して、点の個数を引く。この差を、素数ごとの係数として記録する。",
+    "kana": "その そすうに いちお たして、てんの こすうお ひく。この さお、そすうごとの けいすうとして きろくする。",
+    "phonemes": "[[s'ono s'osu:ni 'itSio t'aSite]] , [[t'enno k'osu:o C'iku]] . [[k'ono s'ao]] , [[s'osu:gotono k'e:su:toSite k'i*okusu*u]] .",
+    "audio_duration": 7.316604166666667
+  },
+  {
+    "id": "05_02",
+    "scene": "05",
+    "speaker": "lime",
+    "mood": "normal",
+    "subtitle": "五の場合は、六から八を引いてマイナス二。十三の場合は、十四から八を引いて六ね。",
+    "kana": "ごの ばあいわ、ろくから はちお ひいて まいなすに。じゅうさんの ばあいわ、じゅうよんから はちお ひいて ろくね。",
+    "phonemes": "[[g'ono b'a:iwa]] , [[*'okuka*a h'atSio C'i:te m'ainasuni]] . [[dZ'u:sanno b'a:iwa]] , [[dZ'u:joNka*a h'atSio C'i:te *'okune]] .",
+    "audio_duration": 6.8559375
+  },
+  {
+    "id": "05_03",
+    "scene": "05",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "そうだ。まだ複素関数は出ていない。ただ点を数えて、引き算をしただけよ。",
+    "kana": "そうだ。まだ ふくそかんすうわ でていない。ただ てんお かぞえて、ひきざんお しただけよ。",
+    "phonemes": "[[s'o:da]] . [[m'ada f'ukusokansu:wa d'ete:nai]] . [[t'ada t'eNo k'azoete]] , [[C'ikizaNo S'itadakejo]] .",
+    "audio_duration": 6.434666666666667
+  },
+  {
+    "id": "06_01",
+    "scene": "06",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "もう一方は、保型形式だ。ここではその一例、モジュラー形式を考える。",
+    "kana": "もういっぽうわ、ほけいけいしきだ。ここでわ その いちれい、もじゅらーけいしきお かんがえる。",
+    "phonemes": "[[m'o:i_:po:wa]] , [[h'oke:ke:Sikida]] . [[k'okodewa s'ono 'itSi*e:]] , [[m'odZu*a:ke:Sikio k'aNgae*u]] .",
+    "audio_duration": 6.195020833333333
+  },
+  {
+    "id": "06_02",
+    "scene": "06",
+    "speaker": "lime",
+    "mood": "skeptical",
+    "subtitle": "単に複素数を入れる関数なら、何でもいいわけではないのね？",
+    "kana": "たんに ふくそすうお いれる かんすうなら、なんでも いいわけでわ ないのね？",
+    "phonemes": "[[t'anni f'ukusosu:o 'i*e*u k'ansu:na*a]] , [[n'andemo 'i:wakedewa n'ainone]] ?",
+    "audio_duration": 4.4586875
+  },
+  {
+    "id": "06_03",
+    "scene": "06",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "変数を特定の規則で変えると、値も決まった規則で変わる。さらに正則性や、境界での条件も必要なの。",
+    "kana": "へんすうお とくていの きそくで かえると、あたいも きまった きそくで かわる。さらに せいそくせいや、きょうかいでの じょうけんも ひつようなの。",
+    "phonemes": "[[h'ensu:o t'okute:no k'isokude k'ae*uto]] , [['ataimo k'ima_:ta k'isokude k'awa*u]] . [[s'a*ani s'e:sokuse:ja]] , [[kj'o:kaideno dZ'o:kemmo C'itsujo:nano]] .",
+    "audio_duration": 9.402875
+  },
+  {
+    "id": "07_01",
+    "scene": "07",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "この関数を、キューという変数のべきで展開する。すると、それぞれのべきに係数が付く。",
+    "kana": "この かんすうお、きゅーという へんすうの べきで てんかいする。すると、それぞれの べきに けいすうが つく。",
+    "phonemes": "[[k'ono k'ansu:o]] , [[kj'u:toiu h'ensu:no b'ekide t'eNkaisu*u]] . [[s'u*uto]] , [[s'o*ezo*eno b'ekini k'e:su:ga ts'uku]] .",
+    "audio_duration": 7.067270833333334
+  },
+  {
+    "id": "07_02",
+    "scene": "07",
+    "speaker": "lime",
+    "mood": "normal",
+    "subtitle": "方程式からは素数ごとの数。関数からは展開の係数。比較できそうなものが出てきたわ。",
+    "kana": "ほうていしきからわ そすうごとの かず。かんすうからわ てんかいの けいすう。ひかくできそうな ものが でてきたわ。",
+    "phonemes": "[[h'o:te:Sikika*awa s'osu:gotono k'azu]] . [[k'ansu:ka*awa t'eNkaino k'e:su:]] . [[C'ikakudekiso:na m'onoga d'etekitawa]] .",
+    "audio_duration": 7.9083125
+  },
+  {
+    "id": "07_03",
+    "scene": "07",
+    "speaker": "masari",
+    "mood": "serious",
+    "subtitle": "ただし、好きな数を並べれば保型形式になるわけじゃない。さっきの厳しい条件が効いているの。",
+    "kana": "ただし、すきな かずお ならべれば ほけいけいしきに なるわけじゃない。さっきの きびしい じょうけんが きいているの。",
+    "phonemes": "[[t'adaSi]] , [[s'ukina k'azuo n'a*abe*eba h'oke:ke:Sikini n'a*uwakedZanai]] . [[s'a_:kino k'ibiSi: dZ'o:keNga k'i:te:*uno]] .",
+    "audio_duration": 7.476916666666667
+  },
+  {
+    "id": "08_01",
+    "scene": "08",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "この曲線に対応する関数は、画面のエータ関数の積で書ける。まずは展開された係数を見てちょうだい。",
+    "kana": "この きょくせんに たいおうする かんすうわ、がめんの えーたかんすうの せきで かける。まずわ てんかいされた けいすうお みてちょうだい。",
+    "phonemes": "[[k'ono kj'okusenni t'aio:su*u k'ansu:wa]] , [[g'amenno 'e:takansu:no s'ekide k'ake*u]] . [[m'azuwa t'eNkaisa*eta k'e:su:o m'itetSo:dai]] .",
+    "audio_duration": 8.300375
+  },
+  {
+    "id": "08_02",
+    "scene": "08",
+    "speaker": "lime",
+    "mood": "surprise",
+    "subtitle": "五乗の係数がマイナス二で、十三乗の係数が六。さっき点を数えて作った数と同じじゃない！",
+    "kana": "ごじょうの けいすうが まいなすにで、じゅうさんじょうの けいすうが ろく。さっき てんお かぞえて つくった かずと おなじじゃない！",
+    "phonemes": "[[g'odZo:no k'e:su:ga m'ainasunide]] , [[dZ'u:sandZo:no k'e:su:ga *'oku]] . [[s'a_:ki t'eNo k'azoete ts'uku_:ta k'azuto 'onadZidZanai]] !",
+    "audio_duration": 7.51325
+  },
+  {
+    "id": "08_03",
+    "scene": "08",
+    "speaker": "masari",
+    "mood": "happy",
+    "subtitle": "出発点も計算も違うのに、同じ情報が現れる。ここで初めて、対応という言葉に中身が入るんよ。",
+    "kana": "しゅっぱつてんも けいさんも ちがうのに、おなじ じょうほうが あらわれる。ここで はじめて、たいおうという ことばに なかみが はいるんよ。",
+    "phonemes": "[[S'u_:patsutemmo k'e:sammo tS'igaunoni]] , [['onadZi dZ'o:ho:ga 'a*awa*e*u]] . [[k'okode h'adZimete]] , [[t'aio:toiu k'otobani n'akamiga h'ai*uNjo]] .",
+    "audio_duration": 8.676875
+  },
+  {
+    "id": "09_01",
+    "scene": "09",
+    "speaker": "lime",
+    "mood": "skeptical",
+    "subtitle": "でも、表が何行か一致しただけでは、全部の素数で一致する証明にはならないわよ。",
+    "kana": "でも、ひょうが なんぎょうか いっちした だけでわ、ぜんぶの そすうで いっちする しょうめいにわ ならないわよ。",
+    "phonemes": "[[d'emo]] , [[C'o:ga n'aNgjo:ka 'i_:tSiSita d'akedewa]] , [[z'embuno s'osu:de 'i_:tSisu*u S'o:me:niwa n'a*anaiwajo]] .",
+    "audio_duration": 6.4345625
+  },
+  {
+    "id": "09_02",
+    "scene": "09",
+    "speaker": "masari",
+    "mood": "serious",
+    "subtitle": "その通り。この具体例では全ての奇素数で一致するが、それを保証するには定理が要る。",
+    "kana": "そのとおり。この ぐたいれいでわ すべての きそすうで いっちするが、それお ほしょうするにわ ていりが いる。",
+    "phonemes": "[[s'onoto:*i]] . [[k'ono g'utai*e:dewa s'ubeteno k'isosu:de 'i_:tSisu*uga]] , [[s'o*eo h'oSo:su*uniwa t'e:*iga 'i*u]] .",
+    "audio_duration": 6.9889375
+  },
+  {
+    "id": "09_03",
+    "scene": "09",
+    "speaker": "lime",
+    "mood": "normal",
+    "subtitle": "計算が合うことと、無限に続く一致を証明することは別ね。そこは混ぜない、と。",
+    "kana": "けいさんが あうことと、むげんに つづく いっちお しょうめいすることわ べつね。そこわ まぜない、と。",
+    "phonemes": "[[k'e:saNga 'aukototo]] , [[m'ugenni ts'uzuku 'i_:tSio S'o:me:su*ukotowa b'etsune]] . [[s'okowa m'azenai]] , [[t'o]] .",
+    "audio_duration": 6.9445
+  },
+  {
+    "id": "10_01",
+    "scene": "10",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "有理数上の楕円曲線に対するモジュラー性定理が、この種類の対応を保証する。",
+    "kana": "ゆうりすうじょうの だえんきょくせんに たいする もじゅらーせいていりが、この しゅるいの たいおうお ほしょうする。",
+    "phonemes": "[[j'u:*isu:dZo:no d'aeNkjokusenni t'aisu*u m'odZu*a:se:te:*iga]] , [[k'ono S'u*uino t'aio:o h'oSo:su*u]] .",
+    "audio_duration": 6.038104166666667
+  },
+  {
+    "id": "10_02",
+    "scene": "10",
+    "speaker": "lime",
+    "mood": "normal",
+    "subtitle": "フェルマーの最終定理の話で出てきた、あのモジュラー性につながるのね。",
+    "kana": "ふぇるまーの さいしゅうていりの はなしで でてきた、あの もじゅらーせいに つながるのね。",
+    "phonemes": "[[f'e*uma:no s'aiSu:te:*ino h'anaSide d'etekita]] , [['ano m'odZu*a:se:ni ts'unaga*unone]] .",
+    "audio_duration": 5.105
+  },
+  {
+    "id": "10_03",
+    "scene": "10",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "半安定の場合がワイルズらにより証明され、その後、有理数上の全ての楕円曲線へ広がった。ラングランズ全体の解決とは違うわ。",
+    "kana": "はんあんていの ばあいが わいるずらに より しょうめいされ、そのご、ゆうりすうじょうの すべての だえんきょくせんえ ひろがった。らんぐらんず ぜんたいの かいけつとわ ちがうわ。",
+    "phonemes": "[[h'aNante:no b'a:iga w'ai*uzu*ani j'o*i S'o:me:sa*e]] , [[s'onogo]] , [[j'u:*isu:dZo:no s'ubeteno d'aeNkjokuseNe C'i*oga_:ta]] . [[*'aNgu*anzu z'entaino k'aiketsutowa tS'igauwa]] .",
+    "audio_duration": 10.403
+  },
+  {
+    "id": "11_01",
+    "scene": "11",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "では、ガロア群に進もう。二の平方根と、そのマイナスを交換する対称性を考える。",
+    "kana": "でわ、がろあぐんに すすもう。にの へいほうこんと、その まいなすお こうかんする たいしょうせいお かんがえる。",
+    "phonemes": "[[d'ewa]] , [[g'a*oagunni s'usumo:]] . [[n'ino h'e:ho:konto]] , [[s'ono m'ainasuo k'o:kansu*u t'aiSo:se:o k'aNgae*u]] .",
+    "audio_duration": 6.745895833333333
+  },
+  {
+    "id": "11_02",
+    "scene": "11",
+    "speaker": "lime",
+    "mood": "normal",
+    "subtitle": "方程式の二つの解を入れ替える、ということ？",
+    "kana": "ほうていしきの ふたつの かいお いれかえる、ということ？",
+    "phonemes": "[[h'o:te:Sikino f'utatsuno k'aio 'i*ekae*u]] , [[t'oiukoto]] ?",
+    "audio_duration": 3.787625
+  },
+  {
+    "id": "11_03",
+    "scene": "11",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "ただの並べ替えじゃない。有理数を固定し、足し算と掛け算を保つ変換だ。こうした変換が群を作る。",
+    "kana": "ただの ならべかえじゃない。ゆうりすうお こていし、たしざんと かけざんお たもつ へんかの。こうした へんかんが ぐんお つくる。",
+    "phonemes": "[[t'adano n'a*abekaedZanai]] . [[j'u:*isu:o k'ote:Si]] , [[t'aSizanto k'akezaNo t'amotsu h'eNkano]] . [[k'o:Sita h'eNkaNga g'uNo ts'uku*u]] .",
+    "audio_duration": 8.516875
+  },
+  {
+    "id": "12_01",
+    "scene": "12",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "表現とは、その群の作用を行列で記述することだ。変換を続けて行う操作が、行列の積に対応する。",
+    "kana": "ひょうげんとわ、その ぐんの さようお ぎょうれつで きじゅつする ことだ。へんかんお つづけて おこなう そうさが、ぎょうれつの せきに たいおうする。",
+    "phonemes": "[[C'o:gentowa]] , [[s'ono g'unno s'ajo:o gj'o:*etsude k'idZutsusu*u k'otoda]] . [[h'eNkaNo ts'uzukete 'okonau s'o:saga]] , [[gj'o:*etsuno s'ekini t'aio:su*u]] .",
+    "audio_duration": 9.318375
+  },
+  {
+    "id": "12_02",
+    "scene": "12",
+    "speaker": "lime",
+    "mood": "happy",
+    "subtitle": "対称性を線形代数で扱うわけね。ようやく行列の出番だわ。",
+    "kana": "たいしょうせいお せんけいだいすうで あつかう わけね。ようやく ぎょうれつの でばんだわ。",
+    "phonemes": "[[t'aiSo:se:o s'eNke:daisu:de 'atsukau w'akene]] . [[j'o:jaku gj'o:*etsuno d'ebandawa]] .",
+    "audio_duration": 5.3945625
+  },
+  {
+    "id": "12_03",
+    "scene": "12",
+    "speaker": "masari",
+    "mood": "serious",
+    "subtitle": "ただし、どの表現でも全情報が残るわけではない。何を表現し、何を読み取るかが大切だ。",
+    "kana": "ただし、どの ひょうげんでも ぜんじょうほうが のこるわけでわ ない。なにお ひょうげんし、なにお よみとるかが たいせつだ。",
+    "phonemes": "[[t'adaSi]] , [[d'ono C'o:gendemo z'endZo:ho:ga n'oko*uwakedewa n'ai]] . [[n'anio C'o:genSi]] , [[n'anio j'omito*ukaga t'aisetsuda]] .",
+    "audio_duration": 7.59425
+  },
+  {
+    "id": "13_01",
+    "scene": "13",
+    "speaker": "lime",
+    "mood": "normal",
+    "subtitle": "最初に点を数えた楕円曲線からも、このガロア表現が出てくるの？",
+    "kana": "さいしょに てんお かぞえた だえんきょくせんからも、この がろあひょうげんが でてくるの？",
+    "phonemes": "[[s'aiSoni t'eNo k'azoeta d'aeNkjokuseNka*amo]] , [[k'ono g'a*oaCo:geNga d'eteku*uno]] ?",
+    "audio_duration": 5.273833333333333
+  },
+  {
+    "id": "13_02",
+    "scene": "13",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "出てくるわ。楕円曲線の点には足し算がある。決まった回数だけ足すとゼロになる点を使うの。",
+    "kana": "でてくるわ。だえんきょくせんの てんにわ たしざんが ある。きまった かいすうだけ たすと ぜろに なる てんお つかうの。",
+    "phonemes": "[[d'eteku*uwa]] . [[d'aeNkjokusenno t'enniwa t'aSizaNga 'a*u]] . [[k'ima_:ta k'aisu:dake t'asuto z'e*oni n'a*u t'eNo ts'ukauno]] .",
+    "audio_duration": 7.991854166666666
+  },
+  {
+    "id": "13_03",
+    "scene": "13",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "補助の素数のべきに沿って、その情報をまとめる。こうして二次元のガロア表現を作れる。構成の詳細はここでは省くわ。",
+    "kana": "ほじょの そすうの べきに そって、その じょうほうお まとめる。こうして にじげんの がろあひょうげんお つくれる。こうせいの しょうさいわ ここでわ はぶくわ。",
+    "phonemes": "[[h'odZono s'osu:no b'ekini s'o_:te]] , [[s'ono dZ'o:ho:o m'atome*u]] . [[k'o:Site n'idZigenno g'a*oaCo:geNo ts'uku*e*u]] . [[k'o:se:no S'o:saiwa k'okodewa h'abukuwa]] .",
+    "audio_duration": 9.73125
+  },
+  {
+    "id": "14_01",
+    "scene": "14",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "良い素数ごとに、フロベニウスという対称性を表現に入れる。その行列のトレースが、さっきの係数になるの。",
+    "kana": "よい そすうごとに、ふろべにうすという たいしょうせいお ひょうげんに いれる。その ぎょうれつの とれーすが、さっきの けいすうに なるの。",
+    "phonemes": "[[j'oi s'osu:gotoni]] , [[f'u*obeniusutoiu t'aiSo:se:o C'o:genni 'i*e*u]] . [[s'ono gj'o:*etsuno t'o*e:suga]] , [[s'a_:kino k'e:su:ni n'a*uno]] .",
+    "audio_duration": 8.297416666666667
+  },
+  {
+    "id": "14_02",
+    "scene": "14",
+    "speaker": "lime",
+    "mood": "surprise",
+    "subtitle": "点数から作った数が、行列の対角成分の和として出てくるのね。偶然の数字合わせより、ずっと構造的だわ。",
+    "kana": "てんすうから つくった かずが、ぎょうれつの たいかくせいぶんの わとして でてくるのね。ぐうぜんの すうじあわせより、ずっと こうぞうてきだわ。",
+    "phonemes": "[[t'ensu:ka*a ts'uku_:ta k'azuga]] , [[gj'o:*etsuno t'aikakuse:bunno w'atoSite d'eteku*unone]] . [[g'u:zenno s'u:dZiawasejo*i]] , [[z'u_:to k'o:zo:tekidawa]] .",
+    "audio_duration": 9.486
+  },
+  {
+    "id": "14_03",
+    "scene": "14",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "さらに行列式は、その素数になる。この二つが、画面の二次式を決めるわ。",
+    "kana": "さらに ぎょうれつしきわ、その そすうに なる。この ふたつが、がめんの にじしきお きめるわ。",
+    "phonemes": "[[s'a*ani gj'o:*etsuSikiwa]] , [[s'ono s'osu:ni n'a*u]] . [[k'ono f'utatsuga]] , [[g'amenno n'idZiSikio k'ime*uwa]] .",
+    "audio_duration": 6.725041666666667
+  },
+  {
+    "id": "15_01",
+    "scene": "15",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "五の場合、トレースはマイナス二、行列式は五。だから対応する二次式は、この形だ。",
+    "kana": "ごの ばあい、とれーすわ まいなすに、ぎょうれつしきわ ご。だから たいおうする にじしきわ、この かたちだ。",
+    "phonemes": "[[g'ono b'a:i]] , [[t'o*e:suwa m'ainasuni]] , [[gj'o:*etsuSikiwa g'o]] . [[d'aka*a t'aio:su*u n'idZiSikiwa]] , [[k'ono k'atatSida]] .",
+    "audio_duration": 7.447041666666666
+  },
+  {
+    "id": "15_02",
+    "scene": "15",
+    "speaker": "lime",
+    "mood": "normal",
+    "subtitle": "方程式、点の個数、行列。別々の説明が同じ二次式へ集まってきたわね。",
+    "kana": "ほうていしき、てんの こすう、ぎょうれつ。べつべつの せつめいが おなじ にじしきえ あつまってきたわね。",
+    "phonemes": "[[h'o:te:Siki]] , [[t'enno k'osu:]] , [[gj'o:*etsu]] . [[b'etsubetsuno s'etsume:ga 'onadZi n'idZiSikie 'atsuma_:tekitawane]] .",
+    "audio_duration": 7.41525
+  },
+  {
+    "id": "15_03",
+    "scene": "15",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "これを関数側の情報と照合する。対応と言うからには、こういう細かい情報まで合ってほしいわけだ。",
+    "kana": "これお かんすうがわの じょうほうと しょうごうする。たいおうと いうからにわ、こういう こまかい じょうほうまで あってほしい わけだ。",
+    "phonemes": "[[k'o*eo k'ansu:gawano dZ'o:ho:to S'o:go:su*u]] . [[t'aio:to 'iuka*aniwa]] , [[k'o:iu k'omakai dZ'o:ho:made 'a_:tehoSi: w'akeda]] .",
+    "audio_duration": 7.673979166666666
+  },
+  {
+    "id": "16_01",
+    "scene": "16",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "二次式の変数に、画面の素数のべきを代入して、逆数を取る。この関数が局所エル因子だ。",
+    "kana": "にじしきの へんすうに、がめんの そすうの べきお だいにゅうして、ぎゃくすうお とる。この かんすうが きょくしょえるいんしだ。",
+    "phonemes": "[[n'idZiSikino h'ensu:ni]] , [[g'amenno s'osu:no b'ekio d'ainju:Site]] , [[gj'akusu:o t'o*u]] . [[k'ono k'ansu:ga kj'okuSoe*uinSida]] .",
+    "audio_duration": 7.845041666666667
+  },
+  {
+    "id": "16_02",
+    "scene": "16",
+    "speaker": "lime",
+    "mood": "normal",
+    "subtitle": "式を一文字ずつ読み上げなくても、素数ごとの情報を関数に包む操作だとわかれば追えるのね。",
+    "kana": "しきお ひともじずつ よみあげなくても、そすうごとの じょうほうお かんすうに つつむ そうさだと わかれば おえるのね。",
+    "phonemes": "[[S'ikio C'itomodZizutsu j'omiagenakutemo]] , [[s'osu:gotono dZ'o:ho:o k'ansu:ni ts'utsumu s'o:sadato w'aka*eba 'oe*unone]] .",
+    "audio_duration": 7.376708333333333
+  },
+  {
+    "id": "16_03",
+    "scene": "16",
+    "speaker": "masari",
+    "mood": "serious",
+    "subtitle": "そうだ。ただし悪い素数にまで、この式をそのまま使ってはいけない。条件は飾りではないわ。",
+    "kana": "そうだ。ただし わるい そすうにまで、この しきお そのまま つかってわ いけない。じょうけんわ かざりでわ ないわ。",
+    "phonemes": "[[s'o:da]] . [[t'adaSi w'a*ui s'osu:nimade]] , [[k'ono S'ikio s'onomama ts'uka_:tewa 'ikenai]] . [[dZ'o:keNwa k'aza*idewa n'aiwa]] .",
+    "audio_duration": 7.7381875
+  },
+  {
+    "id": "17_01",
+    "scene": "17",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "素数ごとの因子を掛け合わせると、エル関数になる。画面では、この曲線の悪い素数、二を除いて書いた。",
+    "kana": "そすうごとの いんしお かけあわせると、えるかんすうに なる。がめんでわ、この きょくせんの わるい そすう、にお のぞいて かいた。",
+    "phonemes": "[[s'osu:gotono 'inSio k'akeawase*uto]] , [['e*ukansu:ni n'a*u]] . [[g'amendewa]] , [[k'ono kj'okusenno w'a*ui s'osu:]] , [[n'io n'ozoite k'aita]] .",
+    "audio_duration": 8.548625
+  },
+  {
+    "id": "17_02",
+    "scene": "17",
+    "speaker": "lime",
+    "mood": "normal",
+    "subtitle": "一方、保型形式の展開の係数からも、エル関数を作れるのね。",
+    "kana": "いっぽう、ほけいけいしきの てんかいの けいすうからも、えるかんすうお つくれるのね。",
+    "phonemes": "[['i_:po:]] , [[h'oke:ke:Sikino t'eNkaino k'e:su:ka*amo]] , [['e*ukansu:o ts'uku*e*unone]] .",
+    "audio_duration": 5.301833333333334
+  },
+  {
+    "id": "17_03",
+    "scene": "17",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "固有形式の場合は、そちらも素数ごとの積で書ける。別々に作った関数が、素数ごとの部品まで一致するの。",
+    "kana": "こゆうけいしきの ばあいわ、そちらも そすうごとの せきで かける。べつべつに つくった かんすうが、そすうごとの ぶひんまで いっちするの。",
+    "phonemes": "[[k'oju:ke:Sikino b'a:iwa]] , [[s'otSi*amo s'osu:gotono s'ekide k'ake*u]] . [[b'etsubetsuni ts'uku_:ta k'ansu:ga]] , [[s'osu:gotono b'uCimmade 'i_:tSisu*uno]] .",
+    "audio_duration": 9.618104166666667
+  },
+  {
+    "id": "18_01",
+    "scene": "18",
+    "speaker": "lime",
+    "mood": "skeptical",
+    "subtitle": "適当なところで関数の値が一個一致しただけでは、対応したとは言えないのね。",
+    "kana": "てきとうな ところで かんすうの あたいが いっこ いっちした だけでわ、たいおうしたとわ いえないのね。",
+    "phonemes": "[[t'ekito:na t'oko*ode k'ansu:no 'ataiga 'i_:ko 'i_:tSiSita d'akedewa]] , [[t'aio:Sitatowa 'ienainone]] .",
+    "audio_duration": 6.433333333333334
+  },
+  {
+    "id": "18_02",
+    "scene": "18",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "その通り。比べるのは局所因子や、それらが作る関数の構造だ。数字が一個合って大喜び、では足りない。",
+    "kana": "そのとおり。くらべるのわ きょくしょいんしや、それらが つくる かんすうの こうぞうだ。すうじが いっこ あって おおよろこび、でわ たりない。",
+    "phonemes": "[[s'onoto:*i]] . [[k'u*abe*unowa kj'okuSoinSija]] , [[s'o*e*aga ts'uku*u k'ansu:no k'o:zo:da]] . [[s'u:dZiga 'i_:ko 'a_:te 'o:jo*okobi]] , [[d'ewa t'a*inai]] .",
+    "audio_duration": 9.354708333333333
+  },
+  {
+    "id": "18_03",
+    "scene": "18",
+    "speaker": "lime",
+    "mood": "happy",
+    "subtitle": "この楕円曲線の例が、算術側と保型側を結ぶ、相互法則の入口になるわけね。",
+    "kana": "この だえんきょくせんの れいが、さんじゅつがわと ほけいがわお むすぶ、そうごほうそくの いりぐちに なるわけね。",
+    "phonemes": "[[k'ono d'aeNkjokusenno *'e:ga]] , [[s'andZutsugawato h'oke:gawao m'usubu]] , [[s'o:goho:sokuno 'i*igutSini n'a*uwakene]] .",
+    "audio_duration": 7.132854166666666
+  },
+  {
+    "id": "19_01",
+    "scene": "19",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "より広くは、幾何から来る適切なガロア表現と、条件を満たす保型表現の対応を考える。",
+    "kana": "より ひろくわ、きかから くる てきせつな がろあひょうげんと、じょうけんお みたす ほけいひょうげんの たいおうお かんがえる。",
+    "phonemes": "[[j'o*i C'i*okuwa]] , [[k'ikaka*a k'u*u t'ekisetsuna g'a*oaCo:gento]] , [[dZ'o:keNo m'itasu h'oke:Co:genno t'aio:o k'aNgae*u]] .",
+    "audio_duration": 7.406541666666667
+  },
+  {
+    "id": "19_02",
+    "scene": "19",
+    "speaker": "lime",
+    "mood": "skeptical",
+    "subtitle": "「適切な」と「条件を満たす」に、重要な中身が詰まっているのね。矢印一本では済まないわ。",
+    "kana": "てきせつな、と、じょうけんお みたす、に、じゅうような なかみが つまっているのね。やじるし いっぽんでわ すまないわ。",
+    "phonemes": "[[t'ekisetsuna]] , [[t'o]] , [[dZ'o:keNo m'itasu]] , [[n'i]] , [[dZ'u:jo:na n'akamiga ts'uma_:te:*unone]] . [[j'adZi*uSi 'i_:pondewa s'umanaiwa]] .",
+    "audio_duration": 8.0053125
+  },
+  {
+    "id": "19_03",
+    "scene": "19",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "どの体で、どの群を使い、どんな表現を対象にするか。そこまで指定して、初めて正確な主張になるわ。",
+    "kana": "どの たいで、どの ぐんお つかい、どんな ひょうげんお たいしょうに するか。そこまで していして、はじめて せいかくな しゅちょうに なるわ。",
+    "phonemes": "[[d'ono t'aide]] , [[d'ono g'uNo ts'ukai]] , [[d'onna C'o:geNo t'aiSo:ni s'u*uka]] . [[s'okomade S'ite:Site]] , [[h'adZimete s'e:kakuna S'utSo:ni n'a*uwa]] .",
+    "audio_duration": 8.698333333333334
+  },
+  {
+    "id": "20_01",
+    "scene": "20",
+    "speaker": "lime",
+    "mood": "normal",
+    "subtitle": "さっきまで保型「形式」だったのに、今度は保型「表現」なの？",
+    "kana": "さっきまで ほけいけいしき だったのに、こんどわ ほけいひょうげんなの？",
+    "phonemes": "[[s'a_:kimade h'oke:ke:Siki d'a_:tanoni]] , [[k'ondowa h'oke:Co:gennano]] ?",
+    "audio_duration": 4.329583333333333
+  },
+  {
+    "id": "20_02",
+    "scene": "20",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "関数の空間に群を作用させ、その作用を適切に分解して捉えるのが、保型表現の言語だ。",
+    "kana": "かんすうの くうかんに ぐんお さようさせ、その さようお てきせつに ぶんかいして とらえるのが、ほけいひょうげんの げんごだ。",
+    "phonemes": "[[k'ansu:no k'u:kanni g'uNo s'ajo:sase]] , [[s'ono s'ajo:o t'ekisetsuni b'uNkaiSite t'o*ae*unoga]] , [[h'oke:Co:genno g'eNgoda]] .",
+    "audio_duration": 7.509666666666667
+  },
+  {
+    "id": "20_03",
+    "scene": "20",
+    "speaker": "masari",
+    "mood": "serious",
+    "subtitle": "こちらの表現は一般に無限次元。ガロア側と同じ大きさの行列を、左右に並べる話ではないの。",
+    "kana": "こちらの ひょうげんわ いっぱんに むげんじげん。がろあがわと おなじ おおきさの ぎょうれつお、さゆうに ならべる はなしでわ ないの。",
+    "phonemes": "[[k'otSi*ano C'o:geNwa 'i_:panni m'ugendZigeN]] . [[g'a*oagawato 'onadZi 'o:kisano gj'o:*etsuo]] , [[s'aju:ni n'a*abe*u h'anaSidewa n'aino]] .",
+    "audio_duration": 8.06
+  },
+  {
+    "id": "21_01",
+    "scene": "21",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "大域の理論は数体全体を扱う。局所の理論では、実数や、素数ごとのピー進体で調べるの。",
+    "kana": "たいいきの りろんわ すうたいぜんたいお あつかう。きょくしょの りろんでわ、じっすうや、そすうごとの ぴーしんたいで しらべるの。",
+    "phonemes": "[[t'ai:kino *'i*oNwa s'u:taizentaio 'atsukau]] . [[kj'okuSono *'i*ondewa]] , [[dZ'issu:ja]] , [[s'osu:gotono p'i:Sintaide S'i*abe*uno]] .",
+    "audio_duration": 8.148041666666666
+  },
+  {
+    "id": "21_02",
+    "scene": "21",
+    "speaker": "lime",
+    "mood": "normal",
+    "subtitle": "最初に使った、素数で割った余りの世界とは同じなの？",
+    "kana": "さいしょに つかった、そすうで わった あまりの せかいとわ おなじなの？",
+    "phonemes": "[[s'aiSoni ts'uka_:ta]] , [[s'osu:de w'a_:ta 'ama*ino s'ekaitowa 'onadZinano]] ?",
+    "audio_duration": 4.5734375
+  },
+  {
+    "id": "21_03",
+    "scene": "21",
+    "speaker": "masari",
+    "mood": "serious",
+    "subtitle": "違う。有限体とピー進体は別物だ。それに、局所の対応がわかっても、大域の存在問題が自動で解けるわけではない。",
+    "kana": "ちがう。ゆうげんたいと ぴーしんたいわ べつものだ。それに、きょくしょの たいおうが わかっても、たいいきの そんざいもんだいが じどうで とけるわけでわ ない。",
+    "phonemes": "[[tS'igau]] . [[j'u:gentaito p'i:Sintaiwa b'etsumonoda]] . [[s'o*eni]] , [[kj'okuSono t'aio:ga w'aka_:temo]] , [[t'ai:kino s'onzaimondaiga dZ'ido:de t'oke*uwakedewa n'ai]] .",
+    "audio_duration": 10.244458333333334
+  },
+  {
+    "id": "22_01",
+    "scene": "22",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "一次元の場合を理解する基盤が、類体論だ。ラングランズの構想は、そこから非可換な世界へ広がる。",
+    "kana": "いちじげんの ばあいお りかいする きばんが、るいたいろの。らんぐらんずの こうそうわ、そこから ひかかんな せかいえ ひろがる。",
+    "phonemes": "[['itSidZigenno b'a:io *'ikaisu*u k'ibaNga]] , [[*'uitai*ono]] . [[*'aNgu*anzuno k'o:so:wa]] , [[s'okoka*a C'ikakanna s'ekaie C'i*oga*u]] .",
+    "audio_duration": 8.173333333333334
+  },
+  {
+    "id": "22_02",
+    "scene": "22",
+    "speaker": "lime",
+    "mood": "normal",
+    "subtitle": "単に方程式の次数を大きくする、という話ではないのね。",
+    "kana": "たんに ほうていしきの じすうお おおきくする、という はなしでわ ないのね。",
+    "phonemes": "[[t'anni h'o:te:Sikino dZ'isu:o 'o:kikusu*u]] , [[t'oiu h'anaSidewa n'ainone]] .",
+    "audio_duration": 4.616708333333333
+  },
+  {
+    "id": "22_03",
+    "scene": "22",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "対称性をどんな表現で捉え、その情報にどんな保型的対象が対応するのか。問題の中心はそこよ。",
+    "kana": "たいしょうせいお どんな ひょうげんで とらえ、その じょうほうに どんな ほけいてき たいしょうが たいおうするのか。もんだいの ちゅうしんわ そこよ。",
+    "phonemes": "[[t'aiSo:se:o d'onna C'o:gende t'o*ae]] , [[s'ono dZ'o:ho:ni d'onna h'oke:teki t'aiSo:ga t'aio:su*unoka]] . [[m'ondaino tS'u:SiNwa s'okojo]] .",
+    "audio_duration": 8.124416666666667
+  },
+  {
+    "id": "23_01",
+    "scene": "23",
+    "speaker": "lime",
+    "mood": "normal",
+    "subtitle": "もう一つの柱が、関手性ね。これは何を要求するの？",
+    "kana": "もうひとつの はしらが、かんしゅせいね。これわ なにお ようきゅうするの？",
+    "phonemes": "[[m'o:Citotsuno h'aSi*aga]] , [[k'anSuse:ne]] . [[k'o*ewa n'anio j'o:kju:su*uno]] ?",
+    "audio_duration": 4.89625
+  },
+  {
+    "id": "23_02",
+    "scene": "23",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "双対群を含むエル群の適切な写像に沿って、ある群の保型表現を、別の群へ移すという構想だ。",
+    "kana": "そうたいぐんお ふくむ えるぐんの てきせつな しゃぞうに そって、ある ぐんの ほけいひょうげんお、べつの ぐんえ うつすという こうそうだ。",
+    "phonemes": "[[s'o:taiguNo f'ukumu 'e*ugunno t'ekisetsuna S'azo:ni s'o_:te]] , [['a*u g'unno h'oke:Co:geNo]] , [[b'etsuno g'uNe 'utsusutoiu k'o:so:da]] .",
+    "audio_duration": 8.0714375
+  },
+  {
+    "id": "23_03",
+    "scene": "23",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "移した先の局所データも、パラメータ側で同じ操作をした結果と合ってほしい。対応する操作の整合性を求めるの。",
+    "kana": "うつした さきの きょくしょでーたも、ぱらめーたがわで おなじ そうさお した けっかと あってほしい。たいおうする そうさの せいごうせいお もとめるの。",
+    "phonemes": "[['utsuSita s'akino kj'okuSode:tamo]] , [[p'a*ame:tagawade 'onadZi s'o:sao S'ita k'e_:kato 'a_:tehoSi:]] . [[t'aio:su*u s'o:sano s'e:go:se:o m'otome*uno]] .",
+    "audio_duration": 9.5033125
+  },
+  {
+    "id": "24_01",
+    "scene": "24",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "例として、二次元の対称二乗を考えよう。これは三次元になる。元の二つの固有値から、画面の三つの積ができる。",
+    "kana": "れいとして、にじげんの たいしょうにじょうお かんがえよう。これわ さんじげんに なる。もとの ふたつの こゆうちから、がめんの みっつの せきが できる。",
+    "phonemes": "[[*'e:toSite]] , [[n'idZigenno t'aiSo:nidZo:o k'aNgaejo:]] . [[k'o*ewa s'andZigenni n'a*u]] . [[m'otono f'utatsuno k'oju:tSika*a]] , [[g'amenno m'i_:tsuno s'ekiga d'eki*u]] .",
+    "audio_duration": 9.883875
+  },
+  {
+    "id": "24_02",
+    "scene": "24",
+    "speaker": "lime",
+    "mood": "normal",
+    "subtitle": "パラメータ側でできるこの操作に、保型側でも対応する操作を求めるのね。",
+    "kana": "ぱらめーたがわで できる この そうさに、ほけいがわでも たいおうする そうさお もとめるのね。",
+    "phonemes": "[[p'a*ame:tagawade d'eki*u k'ono s'o:sani]] , [[h'oke:gawademo t'aio:su*u s'o:sao m'otome*unone]] .",
+    "audio_duration": 5.679958333333333
+  },
+  {
+    "id": "24_03",
+    "scene": "24",
+    "speaker": "masari",
+    "mood": "serious",
+    "subtitle": "ただし、線形代数の計算ができることと、保型表現の移送が存在することは別だ。後者こそ深い問題になる。",
+    "kana": "ただし、せんけいだいすうの けいさんが できることと、ほけいひょうげんの いそうが そんざいすることわ べつだ。こうしゃこそ ふかい もんだいに なる。",
+    "phonemes": "[[t'adaSi]] , [[s'eNke:daisu:no k'e:saNga d'eki*ukototo]] , [[h'oke:Co:genno 'iso:ga s'onzaisu*ukotowa b'etsuda]] . [[k'o:Sakoso f'ukai m'ondaini n'a*u]] .",
+    "audio_duration": 9.489895833333334
+  },
+  {
+    "id": "25_01",
+    "scene": "25",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "有理数上の楕円曲線、ピー進局所体上の一般線形群、そして関数体上の一般線形群には、重要な定理がある。",
+    "kana": "ゆうりすうじょうの だえんきょくせん、ぴーしんきょくしょたいじょうの いっぱんせんけいぐん、そして かんすうたいじょうの いっぱんせんけいぐんにわ、じゅうような ていりが ある。",
+    "phonemes": "[[j'u:*isu:dZo:no d'aeNkjokuseN]] , [[p'i:SiNkjokuSotaidZo:no 'i_:panseNke:guN]] , [[s'oSite k'ansu:taidZo:no 'i_:panseNke:gunniwa]] , [[dZ'u:jo:na t'e:*iga 'a*u]] .",
+    "audio_duration": 9.522
+  },
+  {
+    "id": "25_02",
+    "scene": "25",
+    "speaker": "lime",
+    "mood": "skeptical",
+    "subtitle": "関数体で証明されたなら、数体も終わり、とは言えないのよね？",
+    "kana": "かんすうたいで しょうめいされたなら、すうたいも おわり、とわ いえないのよね？",
+    "phonemes": "[[k'ansu:taide S'o:me:sa*etana*a]] , [[s'u:taimo 'owa*i]] , [[t'owa 'ienainojone]] ?",
+    "audio_duration": 4.8135208333333335
+  },
+  {
+    "id": "25_03",
+    "scene": "25",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "言えない。基礎となる体が違えば、使える幾何も違う。どの設定の定理かを省略すると、別の話になってしまうわ。",
+    "kana": "いえない。きそとなる たいが ちがえば、つかえる きかも ちがう。どの せっていの ていりかお はぶくと、べつの はなしに なってしまうわ。",
+    "phonemes": "[['ienai]] . [[k'isotona*u t'aiga tS'igaeba]] , [[ts'ukae*u k'ikamo tS'igau]] . [[d'ono s'e_:te:no t'e:*ikao h'abukuto]] , [[b'etsuno h'anaSini n'a_:teSimauwa]] .",
+    "audio_duration": 9.483375
+  },
+  {
+    "id": "26_01",
+    "scene": "26",
+    "speaker": "lime",
+    "mood": "normal",
+    "subtitle": "幾何学的ラングランズが証明された、という話も見かけるけれど。",
+    "kana": "きかがくてき らんぐらんずが しょうめいされた、という はなしも みかけるけれど。",
+    "phonemes": "[[k'ikagakuteki *'aNgu*anzuga S'o:me:sa*eta]] , [[t'oiu h'anaSimo m'ikake*uke*edo]] .",
+    "audio_duration": 5.222875
+  },
+  {
+    "id": "26_02",
+    "scene": "26",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "標数ゼロのド・ラーム設定で、圏論的かつ不分岐な幾何学版の証明がある。ただし数体の相互法則と同じ主張ではない。",
+    "kana": "ひょうすうぜろの どらーむせっていで、けんろんてきかつ ふぶんきな きかがくばんの しょうめいが ある。ただし すうたいの そうごほうそくと おなじ しゅちょうでわ ない。",
+    "phonemes": "[[C'o:su:ze*ono d'o*a:muse_:te:de]] , [[k'eN*ontekikatsu f'ubuNkina k'ikagakubanno S'o:me:ga 'a*u]] . [[t'adaSi s'u:taino s'o:goho:sokuto 'onadZi S'utSo:dewa n'ai]] .",
+    "audio_duration": 10.007583333333333
+  },
+  {
+    "id": "26_03",
+    "scene": "26",
+    "speaker": "lime",
+    "mood": "skeptical",
+    "subtitle": "「解決」の二文字だけで、全部片付いた気にならないことね。見出しは定理の仮定を省きがちだわ。",
+    "kana": "かいけつの にもじだけで、ぜんぶ かたづいた きに ならないことね。みだしわ ていりの かていお はぶきがちだわ。",
+    "phonemes": "[[k'aiketsuno n'imodZidakede]] , [[z'embu k'atazuita k'ini n'a*anaikotone]] . [[m'idaSiwa t'e:*ino k'ate:o h'abukigatSidawa]] .",
+    "audio_duration": 7.634604166666667
+  },
+  {
+    "id": "27_01",
+    "scene": "27",
+    "speaker": "lime",
+    "mood": "happy",
+    "subtitle": "入口では、点を数えて作った数が、関数の係数として現れた。その背後に二種類の表現があるのね。",
+    "kana": "いりぐちでわ、てんお かぞえて つくった かずが、かんすうの けいすうとして あらわれた。その はいごに にしゅるいの ひょうげんが あるのね。",
+    "phonemes": "[['i*igutSidewa]] , [[t'eNo k'azoete ts'uku_:ta k'azuga]] , [[k'ansu:no k'e:su:toSite 'a*awa*eta]] . [[s'ono h'aigoni n'iSu*uino C'o:geNga 'a*unone]] .",
+    "audio_duration": 8.865958333333333
+  },
+  {
+    "id": "27_02",
+    "scene": "27",
+    "speaker": "masari",
+    "mood": "normal",
+    "subtitle": "何が対応するのか。どの局所データが保たれるのか。操作まで整合するのか。この三つを追えば、見取り図が読める。",
+    "kana": "なにが たいおうするのか。どの きょくしょでーたが たもたれるのか。そうさまで せいごうするのか。この みっつお おえば、みとりずが よめる。",
+    "phonemes": "[[n'aniga t'aio:su*unoka]] . [[d'ono kj'okuSode:taga t'amota*e*unoka]] . [[s'o:samade s'e:go:su*unoka]] . [[k'ono m'i_:tsuo 'oeba]] , [[m'ito*izuga j'ome*u]] .",
+    "audio_duration": 9.626
+  },
+  {
+    "id": "27_03",
+    "scene": "27",
+    "speaker": "lime",
+    "mood": "happy",
+    "subtitle": "少なくとも、数学がつながるんだぜ、の一言で終わるよりは、何を調べる話なのかわかったわ。",
+    "kana": "すくなくとも、すうがくが つながるんだぜ、の ひとことで おわるよりわ、なにお しらべる はなしなのか わかったわ。",
+    "phonemes": "[[s'ukunakutomo]] , [[s'u:gakuga ts'unaga*undaze]] , [[n'o C'itokotode 'owa*ujo*iwa]] , [[n'anio S'i*abe*u h'anaSinanoka w'aka_:tawa]] .",
+    "audio_duration": 7.9794583333333335
+  },
+  {
+    "id": "28_01",
+    "scene": "28",
+    "speaker": "masari",
+    "mood": "happy",
+    "subtitle": "出典と、点の個数を確かめるコードも添えた。数字の一致を自分で確かめられるわ。",
+    "kana": "しゅってんと、てんの こすうお たしかめる こーども そえた。すうじの いっちお じぶんで たしかめられるわ。",
+    "phonemes": "[[S'u_:tento]] , [[t'enno k'osu:o t'aSikame*u k'o:domo s'oeta]] . [[s'u:dZino 'i_:tSio dZ'ibunde t'aSikame*a*e*uwa]] .",
+    "audio_duration": 6.863145833333333
+  },
+  {
+    "id": "28_02",
+    "scene": "28",
+    "speaker": "lime",
+    "mood": "happy",
+    "subtitle": "ライムとマサリの、ゆったり解説。ラングランズ・プログラム入門、ここまでだよ。",
+    "kana": "らいむと まさりの、ゆったり かいせつ。らんぐらんず ぷろぐらむ にゅうもん、ここまでだよ。",
+    "phonemes": "[[*'aimuto m'asa*ino]] , [[j'u_:ta*i k'aisetsu]] . [[*'aNgu*anzu p'u*ogu*amu nj'u:moN]] , [[k'okomadedajo]] .",
+    "audio_duration": 6.154791666666667
+  }
+]

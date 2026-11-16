@@ -1,0 +1,16 @@
+name MasariFormant
+language eo
+gender female
+pitch 145 183
+formant 0 100 90 100
+formant 1 106 95 120
+formant 2 110 90 120
+formant 3 106 90 120
+formant 4 104 90 120
+formant 5 104 90 120
+stressLength 160 160 160 160 160 160 160 160
+stressAmp 20 20 20 20 20 20 20 20
+intonation 3
+roughness 0
+flutter 0
+consonants 115 110

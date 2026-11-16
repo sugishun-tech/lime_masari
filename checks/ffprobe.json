@@ -1,0 +1,537 @@
+{
+    "streams": [
+        {
+            "index": 0,
+            "codec_name": "h264",
+            "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+            "profile": "High",
+            "codec_type": "video",
+            "codec_tag_string": "avc1",
+            "codec_tag": "0x31637661",
+            "width": 1920,
+            "height": 1080,
+            "coded_width": 1920,
+            "coded_height": 1080,
+            "closed_captions": 0,
+            "film_grain": 0,
+            "has_b_frames": 2,
+            "pix_fmt": "yuv420p",
+            "level": 40,
+            "chroma_location": "left",
+            "field_order": "progressive",
+            "refs": 1,
+            "is_avc": "true",
+            "nal_length_size": "4",
+            "id": "0x1",
+            "r_frame_rate": "30/1",
+            "avg_frame_rate": "30/1",
+            "time_base": "1/15360",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 10582016,
+            "duration": "688.933333",
+            "bit_rate": "166737",
+            "bits_per_raw_sample": "8",
+            "nb_frames": "20668",
+            "extradata_size": 45,
+            "disposition": {
+                "default": 1,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0,
+                "timed_thumbnails": 0,
+                "non_diegetic": 0,
+                "captions": 0,
+                "descriptions": 0,
+                "metadata": 0,
+                "dependent": 0,
+                "still_image": 0,
+                "multilayer": 0
+            },
+            "tags": {
+                "language": "und",
+                "handler_name": "VideoHandler",
+                "vendor_id": "[0][0][0][0]",
+                "encoder": "Lavc61.19.101 libx264"
+            }
+        },
+        {
+            "index": 1,
+            "codec_name": "aac",
+            "codec_long_name": "AAC (Advanced Audio Coding)",
+            "profile": "LC",
+            "codec_type": "audio",
+            "codec_tag_string": "mp4a",
+            "codec_tag": "0x6134706d",
+            "sample_fmt": "fltp",
+            "sample_rate": "48000",
+            "channels": 1,
+            "channel_layout": "mono",
+            "bits_per_sample": 0,
+            "initial_padding": 0,
+            "id": "0x2",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/48000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 33069168,
+            "duration": "688.941000",
+            "bit_rate": "116248",
+            "nb_frames": "32292",
+            "extradata_size": 5,
+            "disposition": {
+                "default": 1,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0,
+                "timed_thumbnails": 0,
+                "non_diegetic": 0,
+                "captions": 0,
+                "descriptions": 0,
+                "metadata": 0,
+                "dependent": 0,
+                "still_image": 0,
+                "multilayer": 0
+            },
+            "tags": {
+                "language": "und",
+                "handler_name": "SoundHandler",
+                "vendor_id": "[0][0][0][0]"
+            }
+        },
+        {
+            "index": 2,
+            "codec_name": "mov_text",
+            "codec_long_name": "MOV text",
+            "codec_type": "subtitle",
+            "codec_tag_string": "tx3g",
+            "codec_tag": "0x67337874",
+            "id": "0x3",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/1000000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 688933000,
+            "duration": "688.933000",
+            "bit_rate": "130",
+            "nb_frames": "85",
+            "extradata_size": 88,
+            "disposition": {
+                "default": 1,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0,
+                "timed_thumbnails": 0,
+                "non_diegetic": 0,
+                "captions": 0,
+                "descriptions": 0,
+                "metadata": 0,
+                "dependent": 0,
+                "still_image": 0,
+                "multilayer": 0
+            },
+            "tags": {
+                "language": "jpn",
+                "handler_name": "SubtitleHandler"
+            }
+        },
+        {
+            "index": 3,
+            "codec_name": "bin_data",
+            "codec_long_name": "binary data",
+            "codec_type": "data",
+            "codec_tag_string": "text",
+            "codec_tag": "0x74786574",
+            "id": "0x4",
+            "r_frame_rate": "0/0",
+            "avg_frame_rate": "0/0",
+            "time_base": "1/1000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "duration_ts": 688933,
+            "duration": "688.933000",
+            "bit_rate": "17",
+            "nb_frames": "28",
+            "extradata_size": 63,
+            "disposition": {
+                "default": 0,
+                "dub": 0,
+                "original": 0,
+                "comment": 0,
+                "lyrics": 0,
+                "karaoke": 0,
+                "forced": 0,
+                "hearing_impaired": 0,
+                "visual_impaired": 0,
+                "clean_effects": 0,
+                "attached_pic": 0,
+                "timed_thumbnails": 0,
+                "non_diegetic": 0,
+                "captions": 0,
+                "descriptions": 0,
+                "metadata": 0,
+                "dependent": 0,
+                "still_image": 0,
+                "multilayer": 0
+            },
+            "tags": {
+                "language": "eng",
+                "handler_name": "SubtitleHandler"
+            }
+        }
+    ],
+    "chapters": [
+        {
+            "id": 0,
+            "time_base": "1/1000",
+            "start": 0,
+            "start_time": "0.000000",
+            "end": 27133,
+            "end_time": "27.133000",
+            "tags": {
+                "title": "ラングランズ・プログラム"
+            }
+        },
+        {
+            "id": 1,
+            "time_base": "1/1000",
+            "start": 27133,
+            "start_time": "27.133000",
+            "end": 47667,
+            "end_time": "47.667000",
+            "tags": {
+                "title": "一つの予想ではなく、関連する構想の集まり"
+            }
+        },
+        {
+            "id": 2,
+            "time_base": "1/1000",
+            "start": 47667,
+            "start_time": "47.667000",
+            "end": 69867,
+            "end_time": "69.867000",
+            "tags": {
+                "title": "出発点は、この方程式"
+            }
+        },
+        {
+            "id": 3,
+            "time_base": "1/1000",
+            "start": 69867,
+            "start_time": "69.867000",
+            "end": 92133,
+            "end_time": "92.133000",
+            "tags": {
+                "title": "5 で割った余りの世界"
+            }
+        },
+        {
+            "id": 4,
+            "time_base": "1/1000",
+            "start": 92133,
+            "start_time": "92.133000",
+            "end": 115200,
+            "end_time": "115.200000",
+            "tags": {
+                "title": "点の個数から、素数ごとの係数へ"
+            }
+        },
+        {
+            "id": 5,
+            "time_base": "1/1000",
+            "start": 115200,
+            "start_time": "115.200000",
+            "end": 138267,
+            "end_time": "138.267000",
+            "tags": {
+                "title": "もう一方は「保型形式」"
+            }
+        },
+        {
+            "id": 6,
+            "time_base": "1/1000",
+            "start": 138267,
+            "start_time": "138.267000",
+            "end": 163733,
+            "end_time": "163.733000",
+            "tags": {
+                "title": "関数を、係数の列として読む"
+            }
+        },
+        {
+            "id": 7,
+            "time_base": "1/1000",
+            "start": 163733,
+            "start_time": "163.733000",
+            "end": 191267,
+            "end_time": "191.267000",
+            "tags": {
+                "title": "実際に対応する関数"
+            }
+        },
+        {
+            "id": 8,
+            "time_base": "1/1000",
+            "start": 191267,
+            "start_time": "191.267000",
+            "end": 214667,
+            "end_time": "214.667000",
+            "tags": {
+                "title": "一致するのは、素数ごとのデータ"
+            }
+        },
+        {
+            "id": 9,
+            "time_base": "1/1000",
+            "start": 214667,
+            "start_time": "214.667000",
+            "end": 239267,
+            "end_time": "239.267000",
+            "tags": {
+                "title": "モジュラー性定理"
+            }
+        },
+        {
+            "id": 10,
+            "time_base": "1/1000",
+            "start": 239267,
+            "start_time": "239.267000",
+            "end": 260733,
+            "end_time": "260.733000",
+            "tags": {
+                "title": "ガロア群は、計算関係を保つ対称性"
+            }
+        },
+        {
+            "id": 11,
+            "time_base": "1/1000",
+            "start": 260733,
+            "start_time": "260.733000",
+            "end": 286067,
+            "end_time": "286.067000",
+            "tags": {
+                "title": "対称性を行列として表す"
+            }
+        },
+        {
+            "id": 12,
+            "time_base": "1/1000",
+            "start": 286067,
+            "start_time": "286.067000",
+            "end": 312067,
+            "end_time": "312.067000",
+            "tags": {
+                "title": "楕円曲線から、2 次元の表現が生まれる"
+            }
+        },
+        {
+            "id": 13,
+            "time_base": "1/1000",
+            "start": 312067,
+            "start_time": "312.067000",
+            "end": 339600,
+            "end_time": "339.600000",
+            "tags": {
+                "title": "点数の差は、行列のトレースだった"
+            }
+        },
+        {
+            "id": 14,
+            "time_base": "1/1000",
+            "start": 339600,
+            "start_time": "339.600000",
+            "end": 365133,
+            "end_time": "365.133000",
+            "tags": {
+                "title": "同じ二次式を、比較の単位にする"
+            }
+        },
+        {
+            "id": 15,
+            "time_base": "1/1000",
+            "start": 365133,
+            "start_time": "365.133000",
+            "end": 391133,
+            "end_time": "391.133000",
+            "tags": {
+                "title": "素数ごとの情報を、L 因子にする"
+            }
+        },
+        {
+            "id": 16,
+            "time_base": "1/1000",
+            "start": 391133,
+            "start_time": "391.133000",
+            "end": 417600,
+            "end_time": "417.600000",
+            "tags": {
+                "title": "素数ごとの因子を掛け合わせる"
+            }
+        },
+        {
+            "id": 17,
+            "time_base": "1/1000",
+            "start": 417600,
+            "start_time": "417.600000",
+            "end": 442933,
+            "end_time": "442.933000",
+            "tags": {
+                "title": "相互法則は、情報を保つ対応を求める"
+            }
+        },
+        {
+            "id": 18,
+            "time_base": "1/1000",
+            "start": 442933,
+            "start_time": "442.933000",
+            "end": 469467,
+            "end_time": "469.467000",
+            "tags": {
+                "title": "相互法則の見取り図"
+            }
+        },
+        {
+            "id": 19,
+            "time_base": "1/1000",
+            "start": 469467,
+            "start_time": "469.467000",
+            "end": 491800,
+            "end_time": "491.800000",
+            "tags": {
+                "title": "保型「形式」から、保型「表現」へ"
+            }
+        },
+        {
+            "id": 20,
+            "time_base": "1/1000",
+            "start": 491800,
+            "start_time": "491.800000",
+            "end": 517200,
+            "end_time": "517.200000",
+            "tags": {
+                "title": "局所と大域は、同じ言葉ではない"
+            }
+        },
+        {
+            "id": 21,
+            "time_base": "1/1000",
+            "start": 517200,
+            "start_time": "517.200000",
+            "end": 541133,
+            "end_time": "541.133000",
+            "tags": {
+                "title": "1 次元の場合の基盤は、類体論"
+            }
+        },
+        {
+            "id": 22,
+            "time_base": "1/1000",
+            "start": 541133,
+            "start_time": "541.133000",
+            "end": 566000,
+            "end_time": "566.000000",
+            "tags": {
+                "title": "もう一つの柱：関手性"
+            }
+        },
+        {
+            "id": 23,
+            "time_base": "1/1000",
+            "start": 566000,
+            "start_time": "566.000000",
+            "end": 594000,
+            "end_time": "594.000000",
+            "tags": {
+                "title": "例：2 次元の対称二乗は 3 次元"
+            }
+        },
+        {
+            "id": 24,
+            "time_base": "1/1000",
+            "start": 594000,
+            "start_time": "594.000000",
+            "end": 620200,
+            "end_time": "620.200000",
+            "tags": {
+                "title": "定理になっている領域の例"
+            }
+        },
+        {
+            "id": 25,
+            "time_base": "1/1000",
+            "start": 620200,
+            "start_time": "620.200000",
+            "end": 645467,
+            "end_time": "645.467000",
+            "tags": {
+                "title": "幾何学的ラングランズとの区別"
+            }
+        },
+        {
+            "id": 26,
+            "time_base": "1/1000",
+            "start": 645467,
+            "start_time": "645.467000",
+            "end": 674333,
+            "end_time": "674.333000",
+            "tags": {
+                "title": "覚えるのは、三つの問い"
+            }
+        },
+        {
+            "id": 27,
+            "time_base": "1/1000",
+            "start": 674333,
+            "start_time": "674.333000",
+            "end": 688933,
+            "end_time": "688.933000",
+            "tags": {
+                "title": "出典・制作情報"
+            }
+        }
+    ],
+    "format": {
+        "filename": "/mnt/data/langlands_lime_masari_voiced.mp4",
+        "nb_streams": 4,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "688.941000",
+        "size": "25094211",
+        "bit_rate": "291394",
+        "probe_score": 100,
+        "tags": {
+            "major_brand": "isom",
+            "minor_version": "512",
+            "compatible_brands": "isomiso2avc1mp41",
+            "title": "ライムとマサリのゆったり解説｜ラングランズ・プログラム",
+            "encoder": "Lavf61.7.103",
+            "comment": "新規制作キャラクター：ライム、マサリ。音声は独自調整したeSpeak合成音声。"
+        }
+    }
+}

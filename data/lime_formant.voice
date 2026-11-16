@@ -1,0 +1,16 @@
+name LimeFormant
+language eo
+gender female
+pitch 190 225
+formant 0 100 80 100
+formant 1 112 90 120
+formant 2 118 90 120
+formant 3 112 90 120
+formant 4 110 85 120
+formant 5 110 85 120
+stressLength 160 160 160 160 160 160 160 160
+stressAmp 20 20 20 20 20 20 20 20
+intonation 3
+roughness 0
+flutter 0
+consonants 115 110
